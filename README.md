@@ -2,6 +2,10 @@
 
 *Their missions ended. Their stories didn't.*
 
+## Live demonstration
+
+[Explore ECHOES](https://phenomenal-boba-f6ee3a.netlify.app/)
+
 **ECHOES** is an interactive educational experience about the spacecraft, experiments, and exploration hardware left behind on the Moon and Mars. It was created for the **NASA Space Apps Challenge 2026**, responding to **“Abandoned but Not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars.”**
 
 Created by a student team including **Sonica Gill** and **Humaira Rajar**.
@@ -69,9 +73,6 @@ Surface walking routes, lighting, artifact spacing, and some models are **illust
 
 AI-assisted tools were used during project development, including discussion and coding assistance. The challenge submission should identify the exact uses of those tools. ECHOES's on-site **Ask Echo** guide is a deterministic, curated question-and-answer interface, not a remote AI model. Scientific claims are intended to be independently traceable to NASA and other mission records.
 
-## Live demonstration
-
-[Explore ECHOES](https://phenomenal-boba-f6ee3a.netlify.app/)
 
 ## Acknowledgements
 
