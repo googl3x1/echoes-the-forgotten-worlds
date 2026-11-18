@@ -1,0 +1,106 @@
+/* A bright NASA-inspired palette. ECHOES remains an independent educational project.
+   Brand reference: https://www.nasa.gov/nasa-brand-center/brand-guidelines/ */
+:root{--nasa-blue:#0032a0;--nasa-red:#e4002b;--nasa-ink:#15294d;--nasa-paper:#fff;--nasa-tint:#edf4ff;--nasa-line:#c2d2ed}
+body.game-mode{background:#f5f8ff;--accent:var(--nasa-blue);--muted:#496184;--line:#c2d2ed;color:var(--nasa-ink)}
+.game-shell{background:radial-gradient(ellipse at 50% 50%,#fff 5%,#f3f7ff 68%,#e5efff 100%)}
+.cosmic-haze{mix-blend-mode:multiply;opacity:.32;filter:blur(80px)}
+.haze-one{background:radial-gradient(ellipse,#3c79df55,transparent 70%)}.haze-two{background:radial-gradient(ellipse,#90b7f555,transparent 70%)}.haze-three{background:radial-gradient(ellipse,#e4002b22,transparent 70%)}
+.game-mode[data-world=Mars] .haze-three{background:radial-gradient(ellipse,#e4002b30,transparent 70%)}.game-mode[data-world=Moon] .haze-two{background:radial-gradient(ellipse,#2359bf55,transparent 70%)}
+.game-round{background:#fffffff0;border-color:#b7c9e7;color:var(--nasa-blue);box-shadow:0 5px 24px #0032a015}.game-round:hover{background:#e5efff;border-color:var(--nasa-blue);box-shadow:0 0 24px #0032a020}
+.artifact-beacon:before{background:var(--nasa-red);box-shadow:0 0 12px #e4002b88}.artifact-beacon:after{border-color:#e4002b88}.artifact-beacon.lunar:before{background:var(--nasa-blue);box-shadow:0 0 12px #0032a088}.artifact-beacon.lunar:after{border-color:#0032a088}
+.planet-hit:focus-visible{outline-color:var(--nasa-blue);box-shadow:0 0 35px #0032a022}.planet-fallbacks button{filter:drop-shadow(0 16px 35px #0032a026)}.planet-fallbacks img{mix-blend-mode:normal}
+
+/* Full-screen stories: paper-white light, cobalt controls, red mission accents. */
+.voyage{background:linear-gradient(135deg,#fff 0%,#f4f8ff 60%,#eaf2ff 100%);color:var(--nasa-ink);--gold:var(--nasa-blue);--orange:var(--nasa-red)}
+.voyage-stars{background:radial-gradient(circle at 18% 18%,#0032a066 0 1px,transparent 1.5px),radial-gradient(circle at 78% 36%,#4574c244 0 1px,transparent 1.5px),radial-gradient(circle at 54% 12%,#e4002b33 0 1px,transparent 1.5px);background-size:221px 193px,313px 257px,167px 331px;opacity:.45}
+.voyage-glow{background:radial-gradient(ellipse at 78% 28%,#74a7f12b,transparent 65%),radial-gradient(ellipse at 5% 70%,#e4002b0c,transparent 60%)}
+.voyage:after{background:linear-gradient(0deg,#f8faff 0%,#f8fafff2 16%,#f8faff66 34%,transparent 58%),linear-gradient(90deg,#ffffffb3,transparent 49%)}
+.voyage-stage{background:radial-gradient(ellipse at 60% 44%,#cfdefb55,transparent 68%)}
+.voyage-loading{color:var(--nasa-blue)}
+.voyage-stage .model-hotspot,.game-mode .game-lab-canvas .model-hotspot,.story-model-canvas .model-hotspot{background:var(--nasa-blue);color:#fff;border-color:#d7e6ff;box-shadow:0 0 0 7px #0032a014,0 8px 24px #0032a029}
+.voyage-stage .model-hotspot.is-focused,.game-mode .game-lab-canvas .model-hotspot.is-focused{background:var(--nasa-red);box-shadow:0 0 0 10px #e4002b1c,0 0 28px #e4002b40}
+.voyage-identity{color:var(--nasa-blue)}.voyage-identity small{color:#435a7b}.voyage-signal{background:var(--nasa-red);box-shadow:0 0 14px #e4002b44}
+.voyage-hud-actions button{color:var(--nasa-blue);background:#fffffff0;border-color:var(--nasa-line);box-shadow:0 3px 14px #0032a008}
+.voyage-hud-actions button:hover{border-color:var(--nasa-blue);background:#e9f1ff}
+.voyage-timeline button{color:#546785}.voyage-timeline button:after{background:#0032a026}.voyage-timeline button.current{color:var(--nasa-blue)}.voyage-timeline button.current:after{background:var(--nasa-blue);box-shadow:0 0 12px #0032a026}.voyage-timeline button.done:after{background:var(--nasa-red);box-shadow:none}
+.voyage-eyebrow{color:#a61930}.voyage-cover h1,.voyage-title h2,.voyage-ending h2{color:var(--nasa-blue);text-shadow:none}
+.voyage-cover h1:after{content:'';display:block;width:68px;height:4px;background:var(--nasa-red);margin-top:25px;border-radius:4px}
+.voyage-cover>p,.voyage .voyage-caption,.voyage-ending p{color:var(--nasa-ink);text-shadow:none}.voyage-cover-note,.voyage-moment{color:#4c6386}
+.voyage .voyage-primary{background:var(--nasa-blue);border-color:var(--nasa-blue);color:#fff;box-shadow:0 8px 25px #0032a021}
+.voyage .voyage-primary:hover{background:#00287f;box-shadow:0 9px 30px #0032a036}
+.voyage-instruction,.voyage-navigation>button,.voyage-evidence>p,.voyage-visual-note{color:#435d85}
+.voyage-choices button{background:#fffffff0;color:var(--nasa-blue);border-color:#9ab6e1;box-shadow:0 4px 18px #0032a009}
+.voyage-choices button b{color:#a61930}.voyage-choices button:hover,.voyage-choices button.layer-visited{background:var(--nasa-blue);border-color:var(--nasa-blue);color:#fff}.voyage-choices button:hover b{color:#fff}.voyage-choices button.try-another{border-color:#b72840;background:#fff1f3}
+.scene-complete .voyage-choices button{opacity:.78}.scene-complete .voyage-instruction{opacity:1}
+.voyage-found{color:var(--nasa-blue)}.voyage-found>svg{color:var(--nasa-red)}
+.voyage-range-row,.voyage-light{color:var(--nasa-ink)}.voyage input[type=range]{accent-color:var(--nasa-blue)}.voyage-light>div{background:#cbd8ee}.voyage-light i{background:var(--nasa-blue)}.voyage-light small{color:#4b6082}
+.voyage-photo{background:#eaf1fc;border-color:#aec5e7;box-shadow:0 15px 45px #0032a01c}.voyage-evidence>p{font-size:11px}
+.voyage-reticle{color:#fff;text-shadow:0 0 5px #0032a0,0 0 12px #0032a0}
+.scanner-target{background:#e4002b0d;border-color:#e4002b99}.scanner-line{background:#0032a0;box-shadow:0 0 25px 6px #6d9df266}
+.reveal-darkness{background:linear-gradient(110deg,#dce9fc,#edf4ff)}
+.voyage[data-mechanic=dust] .voyage-glow{background:radial-gradient(ellipse at 70% 30%,#eec79c35,transparent 70%)}
+.voyage-wave i{background:linear-gradient(#467eda,#0032a0)}.layer-world svg{filter:drop-shadow(0 0 32px #0032a01c)}.layer-label{color:var(--nasa-ink)}.layer-wave{stroke:#fff}
+.voyage-audio-status{color:#9b1630}.voyage-ending{background:radial-gradient(ellipse,#f8fafff5,transparent 85%);scrollbar-color:#0032a0 #dce8fc}
+.voyage-ending blockquote{color:var(--nasa-blue)}.echo-medallion{color:var(--nasa-red);border-color:#0032a066;background:#ffffffc9;box-shadow:0 0 45px #0032a012,inset 0 0 20px #0032a00a;animation:none}
+.voyage-ending-actions>button:not(.voyage-primary){color:var(--nasa-blue)}
+
+/* Optional labs, evidence dialogs and the guide share the same bright palette. */
+.game-mode .memory-backdrop{background:#d8e6fca8}.game-mode .memory-dialog,.game-mode .modal{background:linear-gradient(135deg,#fff,#f0f6ff);border-color:#afc7ea;color:var(--nasa-ink);box-shadow:0 25px 100px #0032a02b;scrollbar-color:#4e76bd #e5efff}
+.game-mode .memory-copy{scrollbar-color:#4e76bd #e5efff}.game-mode .memory-dialog h1,.game-mode .memory-dialog h2,.game-mode .modal h2{color:var(--nasa-blue)}
+.game-mode .memory-dialog p,.game-mode .memory-text,.game-mode .modal p{color:var(--nasa-ink)}.game-mode .memory-dialog p.memory-line{color:#315a96}.game-mode .memory-dialog .memory-note{color:#4a6184}
+.game-mode .memory-kicker{color:#a61930}.game-mode .memory-kicker>i{background:var(--nasa-red)}.game-mode .memory-close{background:#fff;border-color:#a6bee3;color:var(--nasa-blue);box-shadow:0 4px 15px #0032a016}.game-mode .memory-close:hover{background:#dfeaff;color:var(--nasa-blue)}
+.game-mode .memory-progress button{background:#0032a022}.game-mode .memory-progress button.current{background:var(--nasa-red);box-shadow:none}
+.game-mode .cosmic-button,.game-mode .memory-next .cosmic-button,.game-mode .modal .button.primary{background:var(--nasa-blue);color:#fff;border-color:var(--nasa-blue);box-shadow:0 6px 20px #0032a01c}
+.game-mode .cosmic-button:hover,.game-mode .modal .button.primary:hover{background:#00287f;box-shadow:0 8px 25px #0032a02b}
+.game-mode .memory-evidence{background:#e5efff;border-color:#bacdeb;color:var(--nasa-blue)}.game-mode .memory-evidence:hover{background:#d3e4ff;color:#00287f}
+.game-mode .memory-tools{border-color:#c4d5ef}.game-mode .memory-tools>button{color:#315a96}.game-mode .memory-tools>button:hover{color:var(--nasa-red)}
+.game-mode .game-lab-canvas,.game-mode .learning-lab .game-lab-canvas{background:radial-gradient(ellipse at 50% 35%,#e3edff,#f7faff 85%)}
+.game-mode .game-lab-hotspots>button,.game-mode .learning-lab .game-lab-hotspots>button{background:#edf4ff;border-color:#adc5e9;color:var(--nasa-blue)}.game-mode .game-lab-hotspots button>span{color:var(--nasa-blue)}.game-mode .game-lab-hotspots>button[aria-pressed=true]{background:#dceaff;border-color:var(--nasa-blue)}
+.game-mode .learning-panel p.part-discovery{border-color:var(--nasa-red);color:#315a96}.game-mode .learning-panel p.part-hint{background:#e1edff;color:var(--nasa-ink)}
+.game-mode .game-component{background:linear-gradient(135deg,#fff,#e6f0ff);border-color:#a4bee7;box-shadow:0 10px 50px #0032a026}.game-mode .component-close{color:var(--nasa-blue)}
+.game-mode .lab-reset{background:#fff;color:var(--nasa-blue)}.game-mode .lab-orbit-loader{border-color:#0032a022;border-top-color:var(--nasa-blue)}
+.game-mode .game-guide-toggle{background:#eaf2ff;border-color:#afc5e8}.game-mode .game-guide-toggle>button{color:#315a96}.game-mode .game-guide-toggle>button.active{background:var(--nasa-blue);color:#fff}
+.game-mode .game-chat-message{background:#eaf2ff;border-color:#cadbf3}.game-mode .game-chat-message.user{background:#fff;border-color:#a6c1e8}.game-mode .game-chat-message p{color:var(--nasa-ink)}
+.game-mode .game-questions>button{background:#edf4ff;border-color:#b7cceb;color:var(--nasa-blue)}.game-mode #game-question-form{background:#fff;border-color:#a0bce5}.game-mode #game-question{color:var(--nasa-ink)}.game-mode #game-question::placeholder{color:#5a7192}.game-mode #game-question-form>button{background:var(--nasa-blue);color:#fff}
+.game-mode .game-answers>button{background:#f3f7ff;border-color:#a9c1e6;color:var(--nasa-ink)}.game-mode .game-answers button>span{color:#a61930}.game-mode .game-answers button.selected{background:#dceaff;border-color:var(--nasa-blue);color:var(--nasa-blue)}
+.game-mode .game-feedback{color:#a61930}.game-mode .game-award{color:var(--nasa-red);background:radial-gradient(circle,#dceaff,transparent);filter:none}.game-mode .game-export{color:var(--nasa-blue)}
+.game-mode .source-chip,.game-mode .game-chat-message .source-chip{background:#edf4ff;border-color:#b8cdeb;color:var(--nasa-blue)}.game-mode .modal .eyebrow,.game-mode .source-modal-icon{color:#a61930}.game-mode .source-org,.game-mode .source-paraphrase{color:#405b82}.game-mode .source-paraphrase{border-color:#adc5e8}.game-mode .modal .icon-button{color:var(--nasa-blue);border-color:#a5bfe6}
+.game-mode .model-image{background:radial-gradient(ellipse at 50% 35%,#e2edff,#f9fbff 80%)}.game-mode .model-image figcaption{color:var(--nasa-ink);text-shadow:none}.story-visual-toggle button{background:#fff;color:var(--nasa-blue);border-color:#9dbbe7}.story-visual-toggle button[aria-pressed=true]{background:var(--nasa-blue);color:#fff}.story-model-controls{color:var(--nasa-blue)}.story-model-controls button{background:#fff;border-color:#a8c3e9}.game-mode :focus-visible{outline-color:var(--nasa-blue)}
+
+/* The voice booth is a comparison tool; the full stories keep their current narrator. */
+.voice-backdrop{position:fixed;inset:0;z-index:50;background:#17396d55;backdrop-filter:blur(10px);display:grid;place-items:center;padding:24px}
+.voice-picker{position:relative;width:min(660px,100%);max-height:calc(100svh - 48px);overflow:auto;padding:36px;background:linear-gradient(135deg,#fff,#eff5ff);border:1px solid #9ebbe5;border-radius:24px;color:var(--nasa-ink);box-shadow:0 30px 120px #0032a040;scrollbar-width:thin;scrollbar-color:#0032a0 #e4edfc}
+.voice-picker h2{font:30px/1.4 'Audiowide',sans-serif;color:var(--nasa-blue);margin:13px 35px 15px 0}.voice-picker p{font:15px/1.8 'Audiowide',sans-serif;color:#344f77;margin:0 0 14px}.voice-eyebrow{font-size:10px;letter-spacing:1.5px;color:#a61930}.voice-picker blockquote{font:14px/1.9 'Audiowide',sans-serif;margin:18px 0 22px;border-left:3px solid var(--nasa-red);padding:0 0 0 16px;color:#405b82}
+.voice-picker-close{position:absolute;right:18px;top:18px;width:42px;height:42px;border:1px solid #b1c7e7;border-radius:50%;background:#fff;display:grid;place-items:center;color:var(--nasa-blue)}
+.voice-preview-list{display:grid;gap:10px}.voice-preview-list>button{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:#fff;border:1px solid #a6c1e8;border-radius:15px;padding:15px 17px;color:var(--nasa-blue);min-height:76px}.voice-preview-list>button[aria-pressed=true]{background:var(--nasa-blue);color:#fff;border-color:var(--nasa-blue)}.voice-preview-play{width:37px;height:37px;border-radius:50%;display:grid;place-items:center;background:#e7efff;flex-shrink:0;color:var(--nasa-blue)}.voice-preview-list b{display:block;font:17px/1.5 'Audiowide',sans-serif}.voice-preview-list small{display:block;font:11px/1.8 'Audiowide',sans-serif;margin-top:3px}.voice-preview-label{margin-left:auto;font-size:11px}.voice-picker .voice-preview-status{margin:17px 0 10px;font-size:12px;color:var(--nasa-blue);min-height:22px}.voice-picker .voice-preview-note{font-size:11px;line-height:1.9;color:#496184}.voice-stop{background:#e5efff;color:var(--nasa-blue);border:1px solid #a7c2e9;border-radius:22px;padding:10px 18px;min-height:44px;font-size:12px}
+@media(max-width:580px){
+ .voyage-hud{background:linear-gradient(#fffffff8,#f1f6ffed);border-bottom:1px solid #d7e3f6;padding-left:14px;padding-right:14px}.voyage-hud-actions{gap:4px}.voyage-hud-actions button{width:34px!important;min-height:38px;padding:7px}.voyage-identity{font-size:9px}.voyage-identity small{font-size:6px}.voyage-timeline{width:73px;gap:4px}.voyage-cover h1:after{margin-top:18px;width:52px;height:3px}.voyage-evidence>p{font-size:10px}
+ .voyage-ending{background:radial-gradient(ellipse,#f8faffef,transparent 90%)}.voice-backdrop{padding:12px}.voice-picker{padding:28px 22px;max-height:calc(100svh - 24px);border-radius:20px}.voice-picker h2{font-size:25px;margin-right:28px}.voice-picker p{font-size:14px}.voice-picker blockquote{font-size:12px;line-height:1.8}.voice-preview-list>button{padding:13px;gap:10px}.voice-preview-list b{font-size:16px}.voice-preview-list small{font-size:10px}.voice-preview-label{font-size:10px}.voice-picker .voice-preview-note{font-size:11px}
+}
+
+.voice-picker-close{position:sticky;float:right;top:0;right:auto;margin:-16px -16px -42px 0;z-index:2}
+
+/* Space stays dark; storytelling and learning overlays retain their bright palette. */
+body.game-mode{background:#02040d}
+.game-shell{background:radial-gradient(ellipse at 50% 50%,#11112a88,transparent 70%),#02040d}
+.cosmic-haze{mix-blend-mode:screen;opacity:.4;filter:blur(90px)}
+.haze-one{background:radial-gradient(ellipse,#5a239d88,transparent 70%)}
+.haze-two{background:radial-gradient(ellipse,#136a9a88,transparent 70%)}
+.haze-three{background:radial-gradient(ellipse,#9f294b33,transparent 70%)}
+.game-mode[data-world=Mars] .haze-three{background:radial-gradient(ellipse,#d4564966,transparent 70%)}
+.game-mode[data-world=Moon] .haze-two{background:radial-gradient(ellipse,#3974dc88,transparent 70%)}
+.artifact-beacon:before{background:#ffb2a8;box-shadow:0 0 15px #ff7975,0 0 30px #ff797588}.artifact-beacon:after{border-color:#ffb2a860}
+.artifact-beacon.lunar:before{background:#a2eeff;box-shadow:0 0 15px #63d9ff,0 0 30px #63d9ff88}.artifact-beacon.lunar:after{border-color:#a2eeff60}
+
+.artifact-picker-button{position:relative}.artifact-count{position:absolute;top:-5px;right:-5px;border:2px solid white;background:#e4002b;border-radius:50%;color:white;font:10px/18px 'Audiowide',sans-serif;width:22px;height:22px;text-align:center}
+.artifact-choice-dialog{padding:38px;max-width:940px}.game-mode .artifact-choice-dialog h1{font-size:31px;margin:15px 50px 25px 0}.artifact-choices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.artifact-choices>button{border:1px solid #adc5e7;border-radius:16px;background:#fff;overflow:hidden;text-align:left;color:#0032a0;font-family:'Audiowide',sans-serif;position:relative;padding:0 0 20px}.artifact-choices img{width:100%;height:165px;object-fit:cover;display:block;background:#e8f0fc}.artifact-choices>button>span{display:block;padding:18px 18px 0}.artifact-choices small{display:block;color:#a61930;font-size:10px;letter-spacing:.5px;margin-bottom:10px}.artifact-choices b{display:block;font-size:20px;line-height:1.5;margin-bottom:10px}.artifact-choices em{font-size:12px;line-height:1.9;font-style:normal;color:#405b82;display:block;padding-right:10px}.artifact-choices>button>svg{position:absolute;bottom:17px;right:13px;width:16px}.artifact-choices>button:hover{border-color:#0032a0;box-shadow:0 8px 25px #0032a026;transform:translateY(-2px)}
+.voyage-comparison{display:grid;grid-template-columns:1fr 1fr;height:100%;gap:8px;padding:8px}.voyage-comparison figure{min-width:0;min-height:0;margin:0;display:flex;flex-direction:column;align-items:center}.voyage-comparison img{height:calc(100% - 26px);min-height:0;width:100%;object-fit:contain}.voyage-comparison figcaption{font-size:10px;line-height:22px;color:#0032a0;text-align:center;white-space:nowrap}
+.laser-path{height:100%;display:grid;place-items:center}.laser-path svg{height:100%;max-width:100%;overflow:visible}.laser-path text{font:12px 'Audiowide',sans-serif;fill:#15294d}.laser-out,.laser-return{opacity:.3}.is-performing .laser-out,.is-performing .laser-return{opacity:1;animation:laser-travel 1.1s linear infinite}.is-performing .laser-return{animation-delay:.7s}.scene-complete .laser-out,.scene-complete .laser-return{opacity:1}@keyframes laser-travel{to{stroke-dashoffset:-64}}
+.voyage[data-mechanic=laser] .voyage-stage{opacity:.12;pointer-events:none}
+@media(min-width:581px){.voyage[data-mechanic=intro] .voyage-visual-note{left:auto;right:4vw;top:86px;width:42vw;text-align:right}}
+@media(min-width:581px){.voyage[data-mechanic=listen] .voyage-evidence{top:38%;bottom:auto;height:50px;width:35vw;right:8vw}}
+.laser-path{position:relative;display:block;width:100%}.laser-path svg{position:absolute;inset:0;display:block;width:100%;height:100%;overflow:hidden}
+.voyage[data-mechanic=laser] .voyage-evidence{height:29vh;max-height:210px}
+@media(max-width:580px){.voyage[data-mechanic=laser] .voyage-evidence{height:190px;max-height:none}.voyage[data-mechanic=laser] .voyage-console{margin-top:280px}}
+@media(max-width:650px){.artifact-choice-dialog{padding:54px 22px 24px}.game-mode .artifact-choice-dialog h1{font-size:26px;margin-right:20px}.artifact-choices{grid-template-columns:1fr;gap:12px}.artifact-choices>button{display:flex;align-items:center;padding:0 25px 0 0;min-height:120px}.artifact-choices img{width:105px;height:130px;flex-shrink:0;align-self:stretch;object-fit:cover}.artifact-choices>button>span{padding:14px}.artifact-choices b{font-size:17px;margin-bottom:5px}.artifact-choices em{font-size:11px}.artifact-choices small{font-size:9px;margin-bottom:6px}.artifact-choices>button>svg{bottom:50%;transform:translateY(50%)}.artifact-choice-dialog .memory-close{position:sticky;float:right;top:0;margin:-40px -8px -40px 0}}
+@media(prefers-reduced-motion:reduce){.is-performing .laser-out,.is-performing .laser-return{animation:none}}

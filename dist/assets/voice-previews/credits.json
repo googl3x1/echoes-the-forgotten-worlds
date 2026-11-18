@@ -1,0 +1,10 @@
+{
+  "text": "Original ECHOES dramatized Opportunity introduction, also used by the current Zira intro.",
+  "voices": {
+    "hazel.wav": "Microsoft Hazel Desktop \u2014 English (Great Britain)",
+    "david.wav": "Microsoft David Desktop \u2014 English (United States)"
+  },
+  "generation": "Synthesized locally with installed Windows voices. Not NASA mission audio.",
+  "runtime": "Included WAV samples; no remote service or cost to play.",
+  "current_narrator": "Zira, existing assets/narration/opportunity-intro.wav"
+}

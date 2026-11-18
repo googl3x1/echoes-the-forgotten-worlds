@@ -1,0 +1,330 @@
+{
+  "text": "Original ECHOES detailed learning stories; not historical quotations.",
+  "voice": "Microsoft Zira Desktop, synthesized locally on Windows.",
+  "recording": "Original synthetic narration, not NASA audio.",
+  "runtime": "Included mono MP3 files, encoded with the installed FFmpeg/LAME encoder. No paid service or browser voice required.",
+  "files": [
+    "opportunity-0.mp3",
+    "opportunity-1.mp3",
+    "opportunity-2.mp3",
+    "opportunity-3.mp3",
+    "eagle-0.mp3",
+    "eagle-1.mp3",
+    "eagle-2.mp3",
+    "eagle-3.mp3",
+    "insight-0.mp3",
+    "insight-1.mp3",
+    "insight-2.mp3",
+    "insight-3.mp3",
+    "spirit-0.mp3",
+    "spirit-1.mp3",
+    "spirit-2.mp3",
+    "spirit-3.mp3",
+    "lrv-0.mp3",
+    "lrv-1.mp3",
+    "lrv-2.mp3",
+    "lrv-3.mp3",
+    "reflector-0.mp3",
+    "reflector-1.mp3",
+    "reflector-2.mp3",
+    "reflector-3.mp3",
+    "surveyor3-0.mp3",
+    "surveyor3-1.mp3",
+    "surveyor3-2.mp3",
+    "surveyor3-3.mp3",
+    "alsep12-0.mp3",
+    "alsep12-1.mp3",
+    "alsep12-2.mp3",
+    "alsep12-3.mp3",
+    "viking1-0.mp3",
+    "viking1-1.mp3",
+    "viking1-2.mp3",
+    "viking1-3.mp3",
+    "phoenix-0.mp3",
+    "phoenix-1.mp3",
+    "phoenix-2.mp3",
+    "phoenix-3.mp3"
+  ],
+  "chapters": [
+    {
+      "file": "opportunity-0.mp3",
+      "text": "A geologist arrives inside a crater. Opportunity arrived on Mars in 2004 and came to rest inside Eagle Crater. Around the little machine lay rocks and soil that could hold clues about a much older planet. Its assignment was to investigate the history of water, using observations gathered directly from the ground. The rover had a twin, Spirit, exploring a different part of Mars. Both were robotic geologists: machines that studied rocks for scientists far away on Earth. Opportunity’s original surface mission was planned for ninety Martian days, called sols. The record it eventually created would reach far beyond that beginning.",
+      "duration_seconds": 47.111,
+      "bytes": 377669,
+      "sha256": "585d8f0baa0dd706bea80d01354be205d603e0afc139aefbb6fc28697040d78c"
+    },
+    {
+      "file": "opportunity-1.mp3",
+      "text": "Eyes above the ground, tools beside a rock. Opportunity’s cameras stood on a mast, giving its team views across the landscape. Pictures helped scientists choose promising rocks and understand the surroundings of each measurement. Its wheels carried the instruments from one geological setting to another, making the journey itself part of the investigation. Closer to the ground, a robotic arm brought tools toward rocks and soil. A microscopic imager examined small structures, while a rock abrasion tool exposed surfaces for study. Solar arrays changed sunlight into electricity. Cameras, tools, movement, and power all supported the patient work of turning an unfamiliar place into evidence.",
+      "duration_seconds": 50.041,
+      "bytes": 401074,
+      "sha256": "28c57db5a68e279e680237d69da06a518308bd455d3faab8d970f141a9c94793"
+    },
+    {
+      "file": "opportunity-2.mp3",
+      "text": "Tiny spheres tell a larger story. Some of Opportunity’s most memorable clues were tiny mineral spheres nicknamed blueberries. They were not fruit. These small, rounded concretions contained the iron-bearing mineral hematite. A close-up photograph near Fram Crater showed details across a scene only about three centimeters wide. The photograph was one part of the evidence. Scientific measurements and the surrounding geology helped the team interpret how the minerals formed. Together, those observations supported an ancient watery environment. They described conditions in Mars’s past, rather than a river flowing beside the rover. Evidence for water also remained distinct from a discovery of living organisms.",
+      "duration_seconds": 51.311,
+      "bytes": 411314,
+      "sha256": "9200ffed7e9b5dcddda5760375374670fb8cf600baa871c6baadfb6f223d1141"
+    },
+    {
+      "file": "opportunity-3.mp3",
+      "text": "A journey becomes an archive. Opportunity’s final communication reached Earth on June 10, 2018, during a planet-wide dust storm. NASA declared the mission complete on February 13, 2019. By then the solar-powered explorer had traveled far from its original landing place, ending its documented journey in Perseverance Valley. The rover remained on Mars, but its observations had already crossed the distance to Earth. Images, measurements, and route records preserved its work for further study. A historical photograph cannot show its exact appearance today. Its lasting scientific contribution is the evidence it gathered, linking a small machine’s travels with a much longer planetary history.",
+      "duration_seconds": 52.63,
+      "bytes": 421763,
+      "sha256": "92f85022baacfdfa1919f57d23d3c532d69392beac39ffdb4f25360bf87a63e6"
+    },
+    {
+      "file": "eagle-0.mp3",
+      "text": "A spacecraft reaches a new shore. In July 1969, Apollo 11’s Lunar Module, Eagle, carried Neil Armstrong and Buzz Aldrin to the Moon’s surface. Michael Collins remained in lunar orbit in the Command Module. The landing placed people and scientific equipment on ground that humans had never walked across before. Eagle was both transportation and a temporary base for the surface visit. Its shape reflected a very particular journey: descending to the Moon and then sending the crew back toward orbit. The spacecraft’s two stages served those different parts of the mission. That division explains why the artifact at Tranquility Base is only part of Eagle.",
+      "duration_seconds": 47.426,
+      "bytes": 380176,
+      "sha256": "460ac6cfd704f434556bc20d298058958a75674d5b56a877e9eb64d8e6644c39"
+    },
+    {
+      "file": "eagle-1.mp3",
+      "text": "One spacecraft, two different departures. The lower descent stage supported Eagle’s landing. Its legs and footpads held the spacecraft above the surface while the astronauts prepared for their work outside. Above it stood the ascent stage, including the crew cabin that would be needed for the next part of the journey. When the astronauts departed, the ascent stage lifted away and the descent stage stayed at Tranquility Base. The complete engineering model represents both sections together. It illustrates the spacecraft’s design rather than the exact configuration now standing on the Moon. The remaining lower structure and the departed upper cabin belong to the same history, but they have different destinations.",
+      "duration_seconds": 47.911,
+      "bytes": 384147,
+      "sha256": "d87044ffb4e9c7b1e58e3291eea4e6640ac98786a05f16e83a886a10bf8d2546"
+    },
+    {
+      "file": "eagle-2.mp3",
+      "text": "A landing makes surface science possible. Eagle’s contribution to science began with delivering the astronauts and their equipment safely to the surface. The crew could observe the ground, collect samples, and deploy experiments. Their scientific work depended on the landing system, even though the descent stage was not itself every experiment placed nearby. The resulting mission record contains several kinds of evidence: photographs, observations, returned samples, and equipment left on the Moon. Those pieces should be distinguished. A deployed instrument had its own purpose, while Eagle provided the means to reach the site. The story connects engineering with the opportunity to investigate a place directly.",
+      "duration_seconds": 49.191,
+      "bytes": 394387,
+      "sha256": "dacf103dc3108e54044677c401b2738570e95d91c8da971b5e0effacd3161a14"
+    },
+    {
+      "file": "eagle-3.mp3",
+      "text": "The stage that stayed can still be seen. Later, the Lunar Reconnaissance Orbiter Camera photographed the Apollo 11 landing site from above. Its images document the descent stage and trails made during the astronauts’ surface activities. The orbital view connects the famous human visit with a real, recorded location on the Moon. NASA’s historical catalogue lists the descent stage and nearby equipment as separate artifacts. It is an inventory, not a live report of every surface detail. Together, the catalogue and photographs help preserve the meaning of Tranquility Base: a place where transportation became heritage, and where a short visit left a much longer record of exploration.",
+      "duration_seconds": 48.191,
+      "bytes": 386237,
+      "sha256": "12c0d9454cd880a9fb87ef4eb1336eed1d250e7b2143704c98f90756e8c78506"
+    },
+    {
+      "file": "insight-0.mp3",
+      "text": "An explorer that did not need to roam. InSight landed in Elysium Planitia on November 26, 2018. It carried a scientific purpose different from a rover searching across many outcrops. This lander would remain in one place and investigate Mars’s deep interior, including layers hidden far beneath the visible surface. The ground around its legs became the beginning of a much deeper investigation. Instead of traveling down a tunnel or looking through the planet, scientists would study signals reaching the surface. The mission brought together a stable landing platform, instruments, an arm, and solar power. Each part supported observations that could help reveal how a rocky planet is built.",
+      "duration_seconds": 49.366,
+      "bytes": 395641,
+      "sha256": "3e95182f6f165e43ecb158c93d15b04e4ddfb02782b5cdc03c9f474c421fbff7"
+    },
+    {
+      "file": "insight-1.mp3",
+      "text": "A very sensitive instrument meets the ground. InSight’s robotic arm placed its seismometer on the surface beside the lander. The instrument measured tiny vibrations in the ground. Its location mattered: the scientific work required careful measurements of Mars, rather than simply recording movement from a machine’s own deck. A seismometer turns motion into information that scientists can examine. InSight also carried a separate heat-flow probe, with a different job and a different challenge. That probe did not achieve its intended burial depth. Keeping the instruments distinct helps explain the mission accurately: seismic investigation succeeded without a drill reaching the core, while another planned measurement faced a serious limitation.",
+      "duration_seconds": 51.265,
+      "bytes": 410896,
+      "sha256": "f578aa4126760a694e5ffe1519a013b6168cff79ca3cd91ccb125a3e8a419ae0"
+    },
+    {
+      "file": "insight-2.mp3",
+      "text": "Invisible layers leave measurable clues. A vibration can carry information about the material it passes through. Scientists used InSight’s seismic measurements to investigate the crust, mantle, and core of Mars. These layers could not be photographed directly from the surface, but their properties affected the signals that reached the instrument. The important discovery was a new way of investigating an unseen planet through observations at one small site. Interpreting those measurements required scientific models and careful analysis. The results helped compare the interiors of rocky worlds. The lander’s stillness was therefore part of its strength: a stationary instrument could gather clues about structures far larger than the spacecraft itself.",
+      "duration_seconds": 51.385,
+      "bytes": 411941,
+      "sha256": "e0d15087e23005342c2bc94615e0d3da9b0306fa8f0992685da0ac509d4881ab"
+    },
+    {
+      "file": "insight-3.mp3",
+      "text": "Silence does not erase a scientific record. Dust accumulated on InSight’s solar panels, reducing its ability to generate electricity. Operations ended in December 2022. The lander’s instruments became quiet, while the measurements already transmitted to Earth remained available for scientific study and comparison. The site could still be observed from orbit. A HiRISE image acquired on October 23, 2024 documented dust on the retired lander. That dated observation does not imply that InSight had restarted or that the image shows this very moment. It demonstrates another kind of scientific continuity: a machine that once observed Mars can later become an object observed by another mission.",
+      "duration_seconds": 51.705,
+      "bytes": 414449,
+      "sha256": "627a4e88740c9acb6182ece3b56141358df95c9612c3780c639a898594549204"
+    },
+    {
+      "file": "spirit-0.mp3",
+      "text": "A twin takes a different road. Spirit arrived on Mars in 2004 with the same basic rover design as Opportunity. The twins, however, explored different landscapes. Spirit investigated Gusev crater and the Columbia Hills, carrying cameras and scientific tools into places its twin would never visit. The shared purpose was to investigate the history of water recorded in rocks and soil. A familiar-looking surface could have an unfamiliar past, and a picture alone could not explain every mineral. Spirit’s work connected views of the landscape with measurements made close to the ground. Its route became a sequence of places where scientific ideas could meet physical evidence.",
+      "duration_seconds": 48.286,
+      "bytes": 387073,
+      "sha256": "d82a37ec8f2277369e0d43ac868d27c50aab203fd83411da21e49bad53f03634"
+    },
+    {
+      "file": "spirit-1.mp3",
+      "text": "A moving laboratory meets a difficulty. Spirit’s mast cameras helped the team see its surroundings and choose scientific targets. Solar arrays supplied electricity, and a robotic arm brought instruments near the materials under investigation. Movement and close examination worked together: the rover could travel toward a promising place and then study it carefully. A wheel that no longer turned created a mechanical problem. As the rover dragged it across the ground, the wheel disturbed surface material and exposed brighter soil underneath. The difficulty did not automatically become a discovery. Scientific instruments still had to measure the exposed material before its significance could be understood.",
+      "duration_seconds": 48.71,
+      "bytes": 390416,
+      "sha256": "5c323acc3a28446896c993b6a4f54720cb0aa3457431bc609d0f63c32efb85e5"
+    },
+    {
+      "file": "spirit-2.mp3",
+      "text": "Bright soil becomes a scientific clue. In 2007, an instrument on Spirit’s arm examined the bright soil exposed by its dragging wheel. The measurements revealed material rich in silica. The striking appearance had attracted attention, but the chemical measurement gave scientists a stronger basis for explaining the find. The team proposed that processes involving water had helped concentrate the silica. The result added evidence for a wetter Martian past, while leaving room for investigation of the precise geological story. It did not establish living organisms. Spirit’s discovery shows how useful evidence can emerge from an unexpected event when careful measurement follows an unusual observation.",
+      "duration_seconds": 49.825,
+      "bytes": 399403,
+      "sha256": "243808991f303b23ca2c9c34562a23eb7fd6a1f62aab7cddb2a8fb65760bb989"
+    },
+    {
+      "file": "spirit-3.mp3",
+      "text": "The tracks end at Troy. Spirit became stuck in soft soil at a place called Troy in 2009. Its final communication reached Earth on March 22, 2010. NASA continued efforts to contact the rover before ending the recovery attempt on May 25, 2011. Those dates mark different parts of the mission’s ending. The rover remained on Mars, while its photographs and scientific measurements remained part of a growing archive on Earth. A shared rover model shows the engineering design, not Spirit’s final wheel damage or exact present condition. Its legacy includes the silica finding and the broader lesson that unexpected observations can become valuable evidence through patient scientific work.",
+      "duration_seconds": 52.09,
+      "bytes": 417584,
+      "sha256": "8b781a11d83b8f0f77bd3d6c1b560fe1b4f1483f3acb0174ac978ea7e9357936"
+    },
+    {
+      "file": "lrv-0.mp3",
+      "text": "A car arrives where there are no roads. Apollo 17 brought Gene Cernan and Harrison Schmitt to the Taurus-Littrow valley in December 1972. Their Lunar Roving Vehicle gave the surface expedition a new reach. Instead of walking between every geological stop, the astronauts could travel with a vehicle carrying people and equipment. The rover was a scientific tool as well as transportation. Every journey supported the larger purpose of observing the lunar landscape and collecting samples. Apollo 15 and Apollo 16 had also used lunar rovers, each leaving its own vehicle behind. Apollo 17’s machine belonged to that small family of cars designed for exploration on another world.",
+      "duration_seconds": 49.092,
+      "bytes": 393551,
+      "sha256": "12c404681f02039e07f5e139177d28966904ab2c501dfedce8679cc0d628e502"
+    },
+    {
+      "file": "lrv-1.mp3",
+      "text": "An electric vehicle with wire-mesh tires. The Lunar Roving Vehicle used electric batteries to power its wheels. Its four tires were made with woven wire mesh rather than being filled with air. Two seats carried the astronauts, while equipment storage and communications hardware helped support their work away from the Lunar Module. The high-gain antenna was part of that communication system. Wheels, seats, power, and communications solved different parts of the same exploration problem. A rover photograph taken before equipment was loaded shows a less complete configuration than later mission views. The changing appearance reflects preparation for work, rather than several different kinds of Apollo 17 vehicle.",
+      "duration_seconds": 49.301,
+      "bytes": 395223,
+      "sha256": "35d9edacdc868e4139ee4e702d6011fca0168f57079f539065ec9389edfb8f1b"
+    },
+    {
+      "file": "lrv-2.mp3",
+      "text": "A wider journey means more places to study. During Apollo 17, the rover covered about 35.7 kilometers. That travel connected geological stops across Taurus-Littrow and supported the crew’s observations and sample collection. The vehicle did not make every scientific interpretation itself; it carried the people and equipment that could investigate the ground. Its contribution is therefore measured partly in access. A useful rock or landscape becomes more informative when an expedition can reach it, observe its surroundings, and preserve a record. The rover helped extend that opportunity. Its wheels were part of a chain linking engineering, fieldwork, collected samples, and the scientific study that continued after the crew returned.",
+      "duration_seconds": 52.821,
+      "bytes": 423435,
+      "sha256": "0ff2f5babf7c59156831ee80f6feb921ffeeb7425bdfcd376111b4e7720e002d"
+    },
+    {
+      "file": "lrv-3.mp3",
+      "text": "The crew returned; the vehicle remained. Cernan and Schmitt left the Moon, but their rover stayed in the Taurus-Littrow valley. The parked vehicle became one of the artifacts marking the expedition. Its story joins the hardware left on the surface with the observations and samples carried back toward Earth. Later Lunar Reconnaissance Orbiter Camera imagery documented the Apollo 17 site, including rover tracks and astronaut paths. Those later observations preserve traces of a completed journey. An illustrative rover model represents the design, while a mission photograph records a particular moment during use. Together, the different records help explain why an empty vehicle can still carry a scientific history.",
+      "duration_seconds": 50.476,
+      "bytes": 404627,
+      "sha256": "4d585144dfc5beb06d8264e218b35582c0aef0249fac3fd64d569be6949e8029"
+    },
+    {
+      "file": "reflector-0.mp3",
+      "text": "A quiet experiment beside the landing site. Apollo 11’s astronauts placed a laser-ranging reflector on the Moon in 1969. It was much smaller than the Lunar Module: an aluminum panel containing one hundred carefully shaped pieces of fused silica. Each piece was a corner-cube reflector, and together they formed a target for light sent from Earth. The experiment had no wheels or crew cabin. Its purpose depended on a relationship between equipment on two worlds. A ground station could send laser pulses toward the lunar array and detect returning light. The astronauts had left behind a small optical link that could support measurements long after their brief surface visit.",
+      "duration_seconds": 47.651,
+      "bytes": 382057,
+      "sha256": "5a4df17fbe8ce71f2d75e4183b053a0b7ace7f478dc55bc4a5b37a60a6e945cf"
+    },
+    {
+      "file": "reflector-1.mp3",
+      "text": "A shape that returns light. The Apollo 11 array holds its hundred corner cubes in a ten-by-ten grid on a panel about forty-six centimeters across. Their optical shape returns incoming light toward its source. The panel and support structure keep those small reflectors together as a surface experiment. This is passive reflection. The array does not create its own laser beam, transmit a radio message, or use a battery to send the light back. The energy for the measurement begins with the laser pulse sent from Earth. Equipment at the ground station then detects the faint return, completing an experiment whose parts are separated by space.",
+      "duration_seconds": 45.322,
+      "bytes": 363249,
+      "sha256": "a4ee01569fd473cc47714fe1157ab5083b6627007ec3d3bc19d7539302789b76"
+    },
+    {
+      "file": "reflector-2.mp3",
+      "text": "Travel time becomes a measurement. Scientists measure the time taken by a laser pulse to travel to the Moon and return. That timing provides information about the distance between the ground station and the reflector. Repeated measurements help investigate the distance and motion of the Earth–Moon system. The important scientific product is therefore not a photograph taken by the panel. It is a series of carefully timed light returns interpreted by researchers. A small object on the Moon can support an investigation involving two moving worlds. The experiment demonstrates how the same physical hardware can contribute to a record that grows through measurements made at different times.",
+      "duration_seconds": 45.631,
+      "bytes": 365757,
+      "sha256": "c50f0bc0321d37ad40f322a2a5711a42ffa08c5251d0aab428f6e310e9847d0d"
+    },
+    {
+      "file": "reflector-3.mp3",
+      "text": "A different kind of silence. The reflector remained at Tranquility Base when the Apollo 11 crew departed. Unlike a rover whose powered communications have ended, this optical array was never designed to speak by radio. Its lack of a battery does not give it the same kind of ending as an exhausted electrical system. Its scientific usefulness depends on returning incoming light and on the observing equipment on Earth. Historical photographs document its deployment, while engineering descriptions explain its design. They do not reveal every detail of its present surface condition. The array’s legacy is a reminder that an instrument can support science through its optical shape alone, without an onboard electrical power supply.",
+      "duration_seconds": 50.125,
+      "bytes": 401701,
+      "sha256": "192911272b57fee3ee394e972062620da81efdea711cae46b81afd0ee189c894"
+    },
+    {
+      "file": "surveyor3-0.mp3",
+      "text": "A robot arrives before the footprints. Surveyor 3 landed on the Moon in April 1967, before astronauts had walked there. Its television camera looked across the surrounding ground, and its surface sampler could reach into the nearby soil. The mission combined seeing a place with testing the material beneath the lander. This was practical preparation for future exploration. Engineers needed observations about the surface that a human landing system would meet. A robot could investigate that unfamiliar ground while commands and pictures crossed the distance to Earth. Surveyor 3’s work began a story that would later bring people to the very place where the machine had settled.",
+      "duration_seconds": 47.151,
+      "bytes": 377878,
+      "sha256": "2390df72046f7a93816cd7fd5cf238f0058bdd0990f29249b0210d2566f810ae"
+    },
+    {
+      "file": "surveyor3-1.mp3",
+      "text": "Pictures show the scoop at work. The lander’s television camera and surface sampler complemented each other. The camera recorded the surroundings and the sampler’s work. The scoop dug and pressed lunar material, giving the team evidence about how the ground behaved when a machine touched and disturbed it. Solar power supported the lander’s working life, but the scientific task was more specific than simply surviving on the Moon. A surface’s appearance could not fully describe its strength or response to contact. By pairing images with physical tests, Surveyor 3 helped engineers move beyond a distant view toward a more useful understanding of the ground.",
+      "duration_seconds": 44.452,
+      "bytes": 356353,
+      "sha256": "36e83036bbb1fd22d66971c9d57bbc0c585bd846809f2da8907d019bcfd8c91a"
+    },
+    {
+      "file": "surveyor3-2.mp3",
+      "text": "The soil answers an engineering problem. Surveyor 3’s sampler produced evidence that helped engineers understand the lunar surface before a human landing. Digging and pressing the material revealed behavior that photographs alone could not provide. The tests contributed to confidence that landing equipment could be supported by the ground. The result connected two kinds of science: observing the Moon and learning how a machine could operate there. The camera supplied context, while the sampler made the interaction measurable. Surveyor 3 did not need astronauts beside it to perform that early work. Its remote observations helped prepare a route from robotic investigation toward direct human exploration.",
+      "duration_seconds": 48.111,
+      "bytes": 385610,
+      "sha256": "01cd49160fcfa6f89a8e3c9765d32d2c442bf8702394f01971765d7167534408"
+    },
+    {
+      "file": "surveyor3-3.mp3",
+      "text": "The visitors bring part of the robot home. Surveyor 3’s final contact was May 4, 1967. In November 1969, Apollo 12 astronauts visited the inactive lander. They photographed it and removed selected pieces, including its television camera and trenching scoop, to bring back to Earth for examination. Much of the robot stayed on the Moon, but those returned parts began another scientific chapter. Researchers could study real equipment that had experienced prolonged lunar exposure. A complete working-era illustration therefore differs from the hardware left after the visit. Surveyor 3 became both an artifact on the surface and a source of material evidence in laboratories on Earth.",
+      "duration_seconds": 51.366,
+      "bytes": 411732,
+      "sha256": "121795f449a98f6e7610794d03561e08024a368d5f20dfd76cb4e819a9cab513"
+    },
+    {
+      "file": "alsep12-0.mp3",
+      "text": "Unpacking a station for the Moon. During Apollo 12, Pete Conrad and Alan Bean deployed the first full Apollo Lunar Surface Experiments Package, called ALSEP. They placed scientific equipment on the Moon so that observations could continue after their own surface work ended. The station belonged to the exploration of the Ocean of Storms. ALSEP was a collection of connected instruments, rather than one machine with a single task. A central station supported data and communications, while separate experiments examined different features of the lunar environment. Setting up that equipment turned a temporary visit into the beginning of a longer investigation carried out from the surface.",
+      "duration_seconds": 46.906,
+      "bytes": 375997,
+      "sha256": "cf1627ec977b91aaef1fff32969a5060c68faeef03754ceedf0df0278a003c8d"
+    },
+    {
+      "file": "alsep12-1.mp3",
+      "text": "Power, cables, and a path to Earth. Cables connected the experiments with the central station, which relayed their observations toward Earth. Electricity came from a radioisotope thermoelectric generator, or RTG. It converted heat from radioactive decay into electrical power, giving the station a power design different from solar-powered spacecraft. One instrument was a passive seismometer. Passive described its role in detecting ground motion; its electronics still needed electricity. The complete array contained other experiments too. A compact illustration of the central station, RTG, and seismometer represents selected equipment, with simplified spacing and cables. The actual scientific station was spread across the surrounding lunar surface.",
+      "duration_seconds": 55.905,
+      "bytes": 448095,
+      "sha256": "f2ebccfed0a3573404654b157f6d513fe333d95e83639f455d7d7753f3ae48fa"
+    },
+    {
+      "file": "alsep12-2.mp3",
+      "text": "Small movements become a record. The passive seismic experiment measured vibrations in the lunar ground. Those motions became records that scientists could study, extending observation beyond what astronauts could learn during a short visit. Other instruments contributed measurements of the lunar environment, giving the station several scientific purposes. The central station helped those observations travel from the Moon to researchers on Earth. Meaning came from interpreting the measurements and comparing records, rather than from the appearance of the equipment alone. ALSEP’s contribution was the continuing connection between instruments left on the surface and people studying their results, even after the astronauts who installed them had returned home.",
+      "duration_seconds": 49.924,
+      "bytes": 400238,
+      "sha256": "8937ae5e49c8a8eecdeec69a7c419c983414cb509bcfcd035444334172a2802a"
+    },
+    {
+      "file": "alsep12-3.mp3",
+      "text": "A deliberate ending leaves the instruments behind. Controllers deliberately ended ALSEP operations on September 30, 1977. A command from Earth brought the observing program to a close after years of surface science. Its instruments and communications had supported observations long after the astronauts who installed the station had returned home. The hardware remained on the Moon. Mission photographs show particular moments in its deployment and arrangement; an educational illustration does not reproduce every experiment or its exact separation. The station’s legacy lies in both the equipment and the scientific records it produced. Apollo 12 demonstrated how a brief human presence could establish an observing system that continued working after the footsteps stopped.",
+      "duration_seconds": 53.724,
+      "bytes": 430540,
+      "sha256": "a188f27f73880f3b0e2e32955911d553d35b5809e6f16fd85fcf5254a420073e"
+    },
+    {
+      "file": "viking1-0.mp3",
+      "text": "A first successful foothold on Mars. Viking 1’s lander touched down in Chryse Planitia on July 20, 1976. Its successful arrival brought cameras and a scientific laboratory onto the Martian surface. The photographs connected a distant planet with a landscape that researchers could now examine from the ground. The Viking project included separate landers and orbiters, and their roles should be distinguished. The lander was the machine standing among the rocks, equipped to investigate nearby material and conditions. It did not need wheels to carry out that assignment. A fixed platform could repeatedly observe its surroundings and supply a laboratory with samples from within its reach.",
+      "duration_seconds": 48.871,
+      "bytes": 391670,
+      "sha256": "5ce08618868b2d21bf2260954ecc8556e3463de75a1907938471532180edfcf8"
+    },
+    {
+      "file": "viking1-1.mp3",
+      "text": "An arm brings Mars into the laboratory. Viking’s surface sampler reached beyond the deck to gather nearby soil. Instruments could then investigate the collected material, while scanning cameras recorded the setting around the spacecraft. Weather sensors added observations of the conditions experienced at the landing site. Two radioisotope thermoelectric generators supplied electrical power using heat from radioactive decay. That system differed from solar arrays and supported the lander’s long surface mission. A sampler, cameras, laboratory equipment, and power supplies each performed a separate job. Their combination connected a physical place on Mars with measurements scientists could compare and interpret on Earth.",
+      "duration_seconds": 49.335,
+      "bytes": 395432,
+      "sha256": "e753d0a39a6056edd9f0b600e507cbefce13aa1613f41b46acf32a384c921c32"
+    },
+    {
+      "file": "viking1-2.mp3",
+      "text": "Important experiments require careful interpretation. Viking’s biological experiments investigated whether life could explain activity measured in Martian soil samples. The lander also studied chemistry, weather, and the surface around it. A laboratory result was valuable, but its meaning depended on the experiment and the explanations consistent with its measurements. The biological investigations did not establish that living organisms had been discovered. That limit is an important part of the scientific story, rather than a reason to erase the work. Viking created observations that researchers had to interpret carefully. Its legacy includes both a record of Mars and an example of why an interesting experimental response is not automatically proof of life.",
+      "duration_seconds": 52.205,
+      "bytes": 418420,
+      "sha256": "c7d76777bfa778fb39a6f19a713165b29000029119a16d0eb2a3abd7da00967c"
+    },
+    {
+      "file": "viking1-3.mp3",
+      "text": "The laboratory becomes a historical site. Communication with Viking 1’s lander ended in November 1982, after years of surface work. The spacecraft remained in Chryse Planitia. Its ending belongs to the surface lander’s history, which is separate from the mission of the orbiter that had accompanied it to Mars. The photographs and experimental results had already become an archive on Earth. They preserve a particular landscape and the scientific investigations made there. A generic engineering model represents the Viking lander design, not a scan of its current condition. The abandoned laboratory remains meaningful because its records continue to show what was measured and what those measurements could support.",
+      "duration_seconds": 48.551,
+      "bytes": 389163,
+      "sha256": "4f5fee99adbdfcf42ed3c24ee8035580c1d2380024ce4f3bba629842ffcc07de"
+    },
+    {
+      "file": "phoenix-0.mp3",
+      "text": "A landing in the Martian arctic. Phoenix landed in the northern arctic plains of Mars on May 25, 2008. Its destination was a cold region where material beneath the surface could help scientists investigate water. The lander carried a robotic arm and small laboratories instead of wheels for a long journey. The ground immediately around the spacecraft became its field of study. A scoop could gather material, and instruments on the deck could examine selected samples. This approach linked careful excavation with laboratory measurements. The scene around Phoenix was therefore more than a landing place: it was the local environment from which a scientific investigation would obtain its evidence.",
+      "duration_seconds": 47.966,
+      "bytes": 384565,
+      "sha256": "574bd67e0c4d3778c46b23bb4ca07f5e9a3ec02376e632de5b33c0f6eca5a9ff"
+    },
+    {
+      "file": "phoenix-1.mp3",
+      "text": "A small sample enters a heated experiment. Phoenix’s robotic arm collected soil from beside the lander and delivered material to onboard instruments. One laboratory system, the Thermal and Evolved Gas Analyzer, heated samples in small ovens. Instruments examined gases released during heating, allowing researchers to investigate what the material contained. The scoop and the laboratory performed different parts of the process. Bright material seen in a trench could suggest an explanation, while a controlled test supplied another kind of evidence. The lander’s circular solar arrays provided electrical power for its working mission. Together, excavation, imaging, and analysis turned material hidden below the ground into observations that could reach Earth.",
+      "duration_seconds": 53.705,
+      "bytes": 430332,
+      "sha256": "27fe5a4c825334bc572583f8291d23d7eac6cf895cdddae1f524a6e24ac04190"
+    },
+    {
+      "file": "phoenix-2.mp3",
+      "text": "Ice appears in two kinds of evidence. Phoenix photographed bright pieces in the Dodo-Goldilocks trench. Images taken four days apart showed some small pieces disappearing. The change supported their identification as ice that sublimated, meaning it changed directly from a solid into vapor rather than first forming liquid water. A separate laboratory result strengthened the investigation. On July 31, 2008, the team announced that heating a collected sample had released water, confirming water ice. The photographs and sample test were related evidence from different methods. Neither established that living organisms had been found, and neither required a river to be flowing beside the lander.",
+      "duration_seconds": 49.876,
+      "bytes": 399820,
+      "sha256": "b1c6abc2550b4b5d7e211ea261af0b95faed0258054dedc8d5275643fd5a3a3a"
+    },
+    {
+      "file": "phoenix-3.mp3",
+      "text": "A short season leaves a lasting observation. Phoenix’s final communication reached Earth on November 2, 2008. The lander stayed in the Martian arctic, while its pictures and measurements remained available to researchers. Its local excavation had produced evidence about water ice that could be studied far beyond the place where the scoop worked. The mission’s legacy includes the careful distinction between seeing a clue and testing a sample. Historical photographs preserve dated observations; an illustrative model explains the working design without reconstructing its exact present condition. A stationary machine had reached beneath the surface and connected hidden material with a measurable result, adding another piece to the scientific history of water on Mars.",
+      "duration_seconds": 51.8,
+      "bytes": 415076,
+      "sha256": "9f668f66e3bb027d46fc29898be9d7087f6ca1a75111230ddb07b9db02c64f67"
+    }
+  ]
+}

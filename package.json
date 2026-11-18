@@ -1,0 +1,16 @@
+{
+  "name": "echoes-forgotten-worlds",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Free, source-grounded space archaeology with optional NASA library lookup. No API keys.",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs",
+    "test": "node --test test.mjs",
+    "build": "node --check serve.mjs && node --check dist/app.js && node --check dist/data.js && node --check dist/viewer.js && node --check dist/world.js && node --check dist/stories.js && node --check dist/game.js && node --check dist/game-ui.js && node --check dist/experience-modes.js && node --check dist/learning-player.js && node --check dist/learning-stories.js && node --check dist/learning.js && node --check dist/model-presentation.js && node --check dist/voyages.js && node --check dist/story-player.js && node --check dist/story-effects.js && node --check dist/voice-preview.js && node --check dist/archive-data.js && node --check dist/expansion-data.js && node --check dist/heritage-models.js && node --check dist/chat-knowledge.js && node --check dist/chat-widget.js && node --check dist/surface.js && node --check dist/surface-logic.js && node --check dist/artifact-models.js && node --check dist/collection-models.js && node --check dist/collection-data.js && node --check dist/story-media-data.js && node --check dist/story-media.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,23 @@
+# Local dependencies and caches
+node_modules/
+.npm/
+.cache/
+
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+
+# Reports and temporary files
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+
+# Hosting-specific project state; not needed by this portable static site
+.openai/
+.wrangler/
+.sites-runtime/
+
+# Note: dist/ is the project's active source and must be committed.

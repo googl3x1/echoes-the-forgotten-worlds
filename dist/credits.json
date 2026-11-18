@@ -1,0 +1,730 @@
+{
+  "usage_guidelines": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+  "usage_note": "NASA educational/informational use. Retain exact contributor credits; no NASA endorsement implied. Models represent engineering designs, not present-day reconstruction.",
+  "assets": [
+    {
+      "file": "opportunity.glb",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/gltf_files/24883_MER_static.glb",
+      "source": "https://science.nasa.gov/resource/spirit-and-opportunity-rover-3d-model/",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "3D model",
+      "note": "Generic Mars Exploration Rover design representing twin Spirit and Opportunity; not a scan of present-day artifact.",
+      "model_nodes": 1,
+      "external_uris": [],
+      "bytes": 11910084,
+      "status": "downloaded"
+    },
+    {
+      "file": "insight.glb",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/i/InSight_deployed.glb",
+      "source": "https://science.nasa.gov/resource/insight-3d-model/",
+      "credit": "NASA Visualization Technology Applications and Development (VTAD)",
+      "kind": "3D model",
+      "note": "InSight deployed lander design; not a scan of present-day artifact.",
+      "model_nodes": 83,
+      "external_uris": [],
+      "bytes": 22357936,
+      "status": "downloaded"
+    },
+    {
+      "file": "eagle.glb",
+      "url": "https://assets.science.nasa.gov/content/dam/science/cds/3d/resources/model/apollo-lunar-module/Apollo%20Lunar%20Module.glb",
+      "source": "https://science.nasa.gov/3d-resources/apollo-lunar-module/",
+      "credit": "NASA/Michael D. Carbajal",
+      "kind": "3D model",
+      "note": "Generic complete Apollo Lunar Module including ascent and descent stage. Do not depict the whole model as remaining on the Moon.",
+      "model_nodes": 135,
+      "external_uris": [],
+      "bytes": 716840,
+      "status": "downloaded"
+    },
+    {
+      "file": "blueberries.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/3/8/38388_Mars-Opportunity-blueberries-hematite-Fram-Crater-pia19113.jpg",
+      "source": "https://science.nasa.gov/resource/martian-blueberries-2/",
+      "credit": "NASA/JPL-Caltech/Cornell/USGS",
+      "kind": "mission photograph",
+      "note": "Microscopic Imager photo with Pancam color information added; beside Fram Crater, sol 84, April 19 2004. Frame about 3 centimeters across.",
+      "bytes": 278239,
+      "status": "downloaded"
+    },
+    {
+      "file": "apollo-site.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/a/a11_lro.jpg",
+      "source": "https://science.nasa.gov/resource/apollo-11-landing-site/",
+      "credit": "NASA/Goddard Space Flight Center/Arizona State University",
+      "kind": "orbital photograph",
+      "note": "LROC view of Apollo 11 landing site showing descent stage and astronaut trails.",
+      "bytes": 202986,
+      "status": "downloaded"
+    },
+    {
+      "file": "apollo-site-labeled.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/internal_resources/3867/labeled_version.jpeg",
+      "source": "https://science.nasa.gov/resource/apollo-11-landing-site/",
+      "credit": "NASA/Goddard Space Flight Center/Arizona State University",
+      "kind": "annotated orbital photograph",
+      "note": "LROC view with original NASA annotations.",
+      "bytes": 862154,
+      "status": "downloaded"
+    },
+    {
+      "file": "mars-landscape.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/internal_resources/3449/cliff_at_crater_rim_in_red-colored_desert.jpeg",
+      "source": "https://science.nasa.gov/mission/mer-opportunity/",
+      "credit": "NASA/JPL-Caltech/Cornell",
+      "kind": "mission panorama",
+      "note": "Opportunity vista of Victoria crater from Cape Verde, September 2006; mission-era panorama, not present-day imagery.",
+      "bytes": 175625,
+      "status": "downloaded"
+    },
+    {
+      "file": "opportunity-shadow.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/internal_resources/3452/rover_casting_a_shadow.jpeg",
+      "source": "https://science.nasa.gov/mission/mer-opportunity/",
+      "credit": "NASA/JPL-Caltech/Cornell",
+      "kind": "mission photograph",
+      "note": "Opportunity rover shadow on Martian surface, mission-era image.",
+      "bytes": 115224,
+      "status": "downloaded"
+    },
+    {
+      "file": "insight.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/3/8/38686_Mars-InSight-Solar-Panels-Open-pia196641.jpg",
+      "source": "https://science.nasa.gov/mission/insight/",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "pre-launch ground-test photograph",
+      "note": "InSight with solar panels open in a clean room, PIA19664. This is a real pre-launch photograph, not a Mars surface photograph or illustration.",
+      "bytes": 1745317,
+      "status": "downloaded"
+    },
+    {
+      "file": "insight-orbit.jpg",
+      "url": "https://www.nasa.gov/wp-content/uploads/2024/12/pia26515-hirise-crop.jpg",
+      "source": "https://www.uahirise.org/ESP_085514_1845",
+      "credit": "NASA/JPL-Caltech/University of Arizona",
+      "kind": "orbital photograph",
+      "note": "HiRISE InSight image acquired October 23, 2024; dated post-mission observation, not live imagery.",
+      "bytes": 420127,
+      "status": "downloaded"
+    },
+    {
+      "file": "eagle-poster.png",
+      "url": "https://assets.science.nasa.gov/content/dam/science/cds/3d/resources/model/apollo-lunar-module/Apollo%20Lunar%20Module.png",
+      "source": "https://science.nasa.gov/3d-resources/apollo-lunar-module/",
+      "credit": "NASA/Michael D. Carbajal",
+      "kind": "3D model rendering",
+      "note": "Generic complete Apollo Lunar Module; includes ascent stage.",
+      "bytes": 1124858,
+      "status": "downloaded"
+    },
+    {
+      "file": "moon.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA00405/PIA00405~large.jpg",
+      "source": "https://images.nasa.gov/details/PIA00405",
+      "credit": "NASA/JPL/USGS",
+      "kind": "spacecraft photograph",
+      "note": "Galileo image of the Moon acquired December 7, 1992.",
+      "bytes": 379926,
+      "status": "downloaded"
+    },
+    {
+      "file": "mars.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA00407/PIA00407~large.jpg",
+      "source": "https://images.nasa.gov/details/PIA00407",
+      "credit": "NASA/JPL/USGS",
+      "kind": "global color image",
+      "note": "Global color view of Mars from Viking image data.",
+      "bytes": 391600,
+      "status": "downloaded"
+    },
+    {
+      "file": "moon-texture.jpg",
+      "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/lroc_color_2k.jpg",
+      "source": "https://svs.gsfc.nasa.gov/4720/",
+      "credit": "NASA/Goddard Space Flight Center Scientific Visualization Studio; LROC data NASA/GSFC/Arizona State University",
+      "kind": "equirectangular surface texture",
+      "note": "Moon Kit 2019 LROC color texture for mapping onto a sphere.",
+      "bytes": 457942,
+      "status": "downloaded"
+    },
+    {
+      "file": "mars-texture.jpg",
+      "url": "https://assets.science.nasa.gov/content/dam/science/cds/3d/resources/image/mars/Mars.jpg",
+      "source": "https://science.nasa.gov/3d-resources/mars/",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "equirectangular surface texture",
+      "note": "NASA 3D Resources Mars image texture for mapping onto a sphere; see source page.",
+      "bytes": 972896,
+      "status": "downloaded"
+    },
+    {
+      "file": "insight-poster.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA23203/PIA23203~large.jpg",
+      "source": "https://images.nasa.gov/details/PIA23203",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "surface photograph mosaic",
+      "note": "InSight second full selfie; 14 Instrument Deployment Camera images acquired March 15 and April 11, 2019, sols 106 and 133. SEIS and heat probe were deployed off deck.",
+      "bytes": 193327,
+      "status": "downloaded"
+    },
+    {
+      "file": "insight-final.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA25287/PIA25287~large.jpg",
+      "source": "https://images.nasa.gov/details/PIA25287",
+      "credit": "NASA/JPL-Caltech",
+      "kind": "surface photograph mosaic",
+      "note": "InSight final selfie, April 24, 2022, sol 1211; dated mission-era observation, not present-day imagery.",
+      "bytes": 143891,
+      "status": "downloaded"
+    },
+    {
+      "file": "eagle-surface.jpg",
+      "url": "https://images-assets.nasa.gov/image/as11-40-5927/as11-40-5927~large.jpg",
+      "source": "https://images.nasa.gov/details/as11-40-5927",
+      "credit": "NASA/Neil Armstrong",
+      "kind": "surface photograph",
+      "note": "Apollo 11 photograph AS11-40-5927, July 20 1969. Buzz Aldrin removes EASEP from the LM descent stage equipment bay; includes ascent stage before departure.",
+      "bytes": 367171,
+      "status": "downloaded"
+    },
+    {
+      "file": "lrv-apollo17.jpg",
+      "url": "https://images-assets.nasa.gov/image/as17-134-20476/as17-134-20476~large.jpg",
+      "source": "https://images.nasa.gov/details/as17-134-20476",
+      "credit": "NASA/Harrison H. Schmitt",
+      "kind": "mission surface photograph",
+      "note": "AS17-134-20476, December 13 1972. Eugene Cernan approaches parked Apollo 17 LRV during EVA 3, South Massif behind. Actual lunar photograph.",
+      "dimensions": [
+        1919,
+        1878
+      ],
+      "bytes": 395901,
+      "status": "downloaded"
+    },
+    {
+      "file": "lrv-apollo17-driving.jpg",
+      "url": "https://images-assets.nasa.gov/image/as17-147-22526/as17-147-22526~large.jpg",
+      "source": "https://images.nasa.gov/details/as17-147-22526",
+      "credit": "NASA/Harrison H. Schmitt",
+      "kind": "mission surface photograph",
+      "note": "AS17-147-22526, December 11 1972. Cernan checks out stripped-down LRV BEFORE TV camera, communications unit and antennas were loaded. Do not use as exact equipped configuration reference.",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "bytes": 530128,
+      "status": "downloaded"
+    },
+    {
+      "file": "spirit-selfie.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA07371/PIA07371~large.jpg",
+      "source": "https://images.nasa.gov/details/PIA07371",
+      "credit": "NASA/JPL/Cornell",
+      "kind": "mission self-portrait mosaic",
+      "note": "Spirit self-portrait from sols 329–330; record released February 18 2005. Mission-era rover self-portrait, not an image of its current condition.",
+      "dimensions": [
+        1920,
+        1749
+      ],
+      "bytes": 351105,
+      "status": "downloaded"
+    },
+    {
+      "file": "retroreflector-apollo11.jpg",
+      "url": "https://ilrs.cddis.eosdis.nasa.gov/images/AS11-40-5952.jpg",
+      "source": "https://ilrs.cddis.eosdis.nasa.gov/missions/satellite_missions/current_missions/ap11_reflector.html",
+      "credit": "NASA/Neil Armstrong",
+      "kind": "mission surface photograph",
+      "note": "Apollo 11 AS11-40-5952, July 20 1969. Post-deployment documentation of Laser Ranging Retro-Reflector; close-up stereo camera on boulder behind. Actual surface photograph.",
+      "status": "downloaded",
+      "bytes": 322463,
+      "dimensions": [
+        904,
+        913
+      ]
+    },
+    {
+      "file": "surveyor3.jpg",
+      "id": "as12-48-7121",
+      "credit": "NASA/Alan L. Bean",
+      "source": "https://images.nasa.gov/details/as12-48-7121",
+      "url": "https://images-assets.nasa.gov/image/as12-48-7121/as12-48-7121~large.jpg",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "bytes": 611878,
+      "status": "downloaded",
+      "kind": "lunar surface photograph",
+      "note": "Surveyor 3 photographed during Apollo 12 EVA 2, November 20 1969. Working-era hardware before removal of camera and selected parts; not current configuration."
+    },
+    {
+      "file": "surveyor3-apollo12.jpg",
+      "id": "AS12-48-7133",
+      "credit": "NASA/Alan L. Bean",
+      "source": "https://images.nasa.gov/details/AS12-48-7133",
+      "url": "https://images-assets.nasa.gov/image/AS12-48-7133/AS12-48-7133~large.jpg",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "bytes": 432966,
+      "status": "downloaded",
+      "kind": "lunar surface photograph",
+      "note": "Pete Conrad examines Surveyor 3 camera before removal; Apollo 12 LM in background. November 20 1969."
+    },
+    {
+      "file": "alsep12.jpg",
+      "id": "as12-47-6918",
+      "credit": "NASA/Alan L. Bean",
+      "source": "https://images.nasa.gov/details/as12-47-6918",
+      "url": "https://images-assets.nasa.gov/image/as12-47-6918/as12-47-6918~large.jpg",
+      "dimensions": [
+        1920,
+        1857
+      ],
+      "bytes": 349834,
+      "status": "downloaded",
+      "kind": "lunar surface photograph",
+      "note": "Apollo 12 ALSEP on November 19 1969. PSE in center foreground, larger central station behind, SIDE is white object on legs. Actual deployed instruments."
+    },
+    {
+      "file": "alsep12-deployment.jpg",
+      "id": "as12-47-6919",
+      "credit": "NASA/Charles Conrad Jr.",
+      "source": "https://images.nasa.gov/details/as12-47-6919",
+      "url": "https://images-assets.nasa.gov/image/as12-47-6919/as12-47-6919~large.jpg",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "bytes": 270322,
+      "status": "downloaded",
+      "kind": "lunar surface photograph",
+      "note": "Alan Bean deploys Apollo 12 ALSEP, November 19 1969."
+    },
+    {
+      "file": "viking1-panorama.jpg",
+      "id": "PIA03166",
+      "credit": "NASA/JPL",
+      "source": "https://images.nasa.gov/details/PIA03166",
+      "url": "https://images-assets.nasa.gov/image/PIA03166/PIA03166~orig.jpg",
+      "dimensions": [
+        8550,
+        1852
+      ],
+      "bytes": 1244397,
+      "status": "downloaded",
+      "kind": "Mars surface panorama mosaic",
+      "note": "Afternoon on Chryse Planitia, Viking Lander 1 Camera 2 mosaic. Historical surface observation, not current imagery."
+    },
+    {
+      "file": "viking1-first-panorama.jpg",
+      "id": "PIA00383",
+      "credit": "NASA/JPL",
+      "source": "https://images.nasa.gov/details/PIA00383",
+      "url": "https://images-assets.nasa.gov/image/PIA00383/PIA00383~thumb.jpg",
+      "dimensions": [
+        2497,
+        512
+      ],
+      "bytes": 167874,
+      "status": "downloaded",
+      "kind": "Mars surface panorama",
+      "note": "Viking 1 first panoramic view from Mars surface July 20 1976. Parallel lines in sky are imaging artifacts."
+    },
+    {
+      "file": "phoenix-panorama.jpg",
+      "id": "PIA13804",
+      "credit": "NASA/JPL-Caltech/University of Arizona/Texas A&M University",
+      "source": "https://images.nasa.gov/details/PIA13804",
+      "url": "https://images-assets.nasa.gov/image/PIA13804/PIA13804~large.jpg",
+      "dimensions": [
+        1920,
+        453
+      ],
+      "bytes": 137098,
+      "status": "downloaded",
+      "kind": "Mars surface panorama mosaic",
+      "note": "Phoenix deck and landing site; hundreds of images acquired during first weeks after May 25 2008 landing. Historical photo mosaic."
+    },
+    {
+      "file": "phoenix-ice.jpg",
+      "id": "PIA10906",
+      "credit": "NASA/JPL-Caltech/University of Arizona/Texas A&M University",
+      "source": "https://science.nasa.gov/photojournal/disappearing-ice/",
+      "url": "https://images-assets.nasa.gov/image/PIA10906/PIA10906~orig.jpg",
+      "dimensions": [
+        512,
+        1024
+      ],
+      "bytes": 80129,
+      "status": "downloaded",
+      "kind": "Mars surface photograph (single animation poster frame)",
+      "note": "Static poster frame of Dodo-Goldilocks trench; use the companion GIF to see the change between sols20 and24. This single frame alone does not show temporal change."
+    },
+    {
+      "file": "phoenix-ice.gif",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia10/pia10906/PIA10906.gif",
+      "source": "https://science.nasa.gov/photojournal/disappearing-ice/",
+      "credit": "NASA/JPL-Caltech/University of Arizona/Texas A&M University",
+      "dimensions": [
+        128,
+        256
+      ],
+      "frames": 2,
+      "bytes": 65635,
+      "status": "downloaded",
+      "kind": "animated comparison of real Mars surface photographs",
+      "note": "Dodo-Goldilocks trench, Phoenix sols20 and24, 2008; ice lumps in lower left disappear by sublimation over four days. NASA caption has inconsistent calendar day labeling, so cite sols or four-day interval."
+    },
+    {
+      "file": "phoenix-ice-before.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA10910/PIA10910~orig.jpg",
+      "source": "https://images.nasa.gov/details/PIA10910",
+      "credit": "NASA/JPL-Caltech/University of Arizona/Texas A&M University",
+      "dimensions": [
+        512,
+        1024
+      ],
+      "bytes": 110006,
+      "status": "downloaded",
+      "kind": "Mars surface photograph",
+      "note": "This color image was acquired by the Surface Stereo Imager on NASA Phoenix Mars Lander on the 21st day of the mission, or Sol 20 June 15, 2008. It shows lumps of ice in the lower left corner of a trench nicknamed Dodo-Goldilocks."
+    },
+    {
+      "file": "phoenix-ice-after.jpg",
+      "url": "https://images-assets.nasa.gov/image/PIA10911/PIA10911~orig.jpg",
+      "source": "https://images.nasa.gov/details/PIA10911",
+      "credit": "NASA/JPL-Caltech/University of Arizona/Texas A&M University",
+      "dimensions": [
+        512,
+        1024
+      ],
+      "bytes": 109240,
+      "status": "downloaded",
+      "kind": "Mars surface photograph",
+      "note": "Ice on Mars -- Now it Gone"
+    },
+    {
+      "file": "viking-lander.glb",
+      "bytes": 1849384,
+      "url": "https://assets.science.nasa.gov/content/dam/science/cds/3d/resources/model/viking-lander/Viking%20Lander.glb",
+      "source": "https://science.nasa.gov/3d-resources/viking-lander/",
+      "credit": "NASA/Michael D. Carbajal",
+      "external_uris": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "extensions_required": [],
+      "meshes": 2,
+      "materials": 9,
+      "textures": 0,
+      "status": "downloaded",
+      "kind": "engineering-style design model",
+      "note": "Generic Viking lander design, not orbiter; not a scan of Viking 1 current condition."
+    }
+  ],
+  "original_narration": {
+    "directory": "assets/narration/",
+    "clips": 100,
+    "credit": "Original ECHOES dramatizations, locally synthesized with Microsoft Zira Desktop. Not NASA audio.",
+    "details": "assets/narration/credits.json"
+  },
+  "voice_previews": {
+    "directory": "assets/voice-previews/",
+    "clips": 2,
+    "credit": "Original ECHOES script, locally synthesized with Microsoft Hazel and David Desktop. Current Zira sample reuses the existing intro.",
+    "details": "assets/voice-previews/credits.json"
+  },
+  "original_models": {
+    "module": "heritage-models.js",
+    "models": [
+      "Apollo 17 Lunar Roving Vehicle illustration",
+      "Apollo 11 100-cube laser reflector illustration",
+      "Surveyor 3 working-era illustration",
+      "Apollo 12 selected ALSEP equipment illustration",
+      "Phoenix deployed hardware illustration"
+    ],
+    "note": "Original illustrative geometry based on NASA photographs and design references; not NASA meshes or present-day scans."
+  },
+  "learning_narration": {
+    "directory": "assets/learning-narration/",
+    "clips": 40,
+    "format": "MP3, mono 64 kbps",
+    "credit": "Original ECHOES detailed educational stories, locally synthesized with Microsoft Zira Desktop and encoded with the installed FFmpeg encoder. Not NASA audio.",
+    "details": "assets/learning-narration/credits.json"
+  },
+  "artifact_chat": {
+    "file": "nasa-archive-records.json",
+    "scope": "799 historical inventory rows from all 22 pages of NASA’s July 5, 2012 lunar catalogue, plus six retired/lost Mars mission records. Rows can be assemblies, parts, debris or uncertain locations; they are not a count of distinct physical objects. Not a live condition or coordinate survey.",
+    "catalogue": "https://www.nasa.gov/wp-content/uploads/2024/02/final-catalogue-of-manmade-material-on-the-moon.pdf",
+    "additional_missions": [
+      "https://science.nasa.gov/mission/viking-2/",
+      "https://science.nasa.gov/mission/mars-pathfinder/",
+      "https://science.nasa.gov/mission/mars-polar-lander-deep-space-2/",
+      "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+      "https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/"
+    ],
+    "wider_search": {
+      "api": "https://images-api.nasa.gov/search",
+      "documentation": "https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf",
+      "note": "Optional user-initiated, key-free NASA library search restricted to a selected documented left-behind/retired/lost artifact. Queries contain only its name, mission and world; results must match the artifact and mission. Unknown and unrelated prompts never trigger broad search. No conversation upload or live condition verification."
+    }
+  },
+  "collection_expansion": {
+    "images": [
+      {
+        "file": "collection-surveyor1.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/surveyor.jpg?w=1100",
+        "source": "https://science.nasa.gov/mission/surveyor-1/",
+        "credit": "NASA · Surveyor spacecraft design reference from the mission archive; not a photograph of Surveyor 1 on the Moon.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-surveyor5.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/surveyor-3.jpg?w=1100",
+        "source": "https://science.nasa.gov/mission/surveyor-5/",
+        "credit": "NASA · Surveyor spacecraft design reference from the Surveyor 5 mission page; not a surface photograph of the retired lander.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-surveyor6.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/surveyor-4.jpg?w=1100",
+        "source": "https://science.nasa.gov/mission/surveyor-6/",
+        "credit": "NASA · Surveyor spacecraft design reference from the Surveyor 6 mission page; this illustrates the design rather than its current condition.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-surveyor7.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/surveyor-5.jpg?w=1100",
+        "source": "https://science.nasa.gov/mission/surveyor-7/",
+        "credit": "NASA · Surveyor spacecraft design reference from the Surveyor 7 mission page; not a photograph of the actual retired lander.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-falcon.jpg",
+        "url": "https://www.nasa.gov/wp-content/uploads/2021/07/apollo_15_moon_landing_28_eva3_scott_w_us_flag_as15-88-11863hr.jpg?w=1400",
+        "source": "https://www.nasa.gov/mission/apollo-15/",
+        "credit": "NASA · AS15-88-11863: an Apollo 15 astronaut salutes beside the flag, with Falcon in the background, 1971; both stages were still present during this photograph.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-viking2.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/PIA01522.jpg?w=1400",
+        "source": "https://science.nasa.gov/mission/viking-2/",
+        "credit": "NASA/JPL · PIA01522: a historical Viking 2 surface image showing lander hardware and a Martian boulder field.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-pathfinder.jpg",
+        "url": "https://science.nasa.gov/wp-content/uploads/2017/12/pia00621-pathfinder-and-sojourner-with-airbags-deflated.jpg?w=1400",
+        "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "credit": "NASA/JPL · PIA00621: Mars Pathfinder and Sojourner with deflated airbags, a historical mission image.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-sojourner.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/p/i/a/0/PIA01551-1.jpg?w=1200",
+        "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "credit": "NASA/JPL · PIA01551: the newly deployed Sojourner rover, photographed during the Mars Pathfinder mission in 1997.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-ingenuity.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/downloadable_items/4/5/45954_PIA24581.jpg?w=1200",
+        "source": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "credit": "NASA/JPL-Caltech/ASU/MSSS · PIA24581: Ingenuity on Mars during its working mission, photographed in 2021; not its final airfield.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      },
+      {
+        "file": "collection-polarlander.jpg",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/1699_mpl_768.jpg?w=1100",
+        "source": "https://science.nasa.gov/mission/mars-polar-lander-deep-space-2/",
+        "credit": "NASA/JPL-Caltech · Artist’s concept of Mars Polar Lander deployed on Mars. This is a planned design illustration, not evidence of a successful landing.",
+        "processing": "Resized to maximum 1500 px and encoded as JPEG; NASA content preserved."
+      }
+    ],
+    "models": {
+      "module": "collection-models.js",
+      "specifications": {
+        "surveyor1": {
+          "legs": 3,
+          "power": "solar",
+          "sampler": false,
+          "instrument": "television camera",
+          "configuration": "working-era"
+        },
+        "surveyor5": {
+          "legs": 3,
+          "power": "solar",
+          "sampler": false,
+          "instrument": "alpha-scattering analyzer",
+          "configuration": "working-era"
+        },
+        "surveyor6": {
+          "legs": 3,
+          "power": "solar",
+          "sampler": false,
+          "instrument": "alpha-scattering analyzer",
+          "hop": true,
+          "configuration": "working-era"
+        },
+        "surveyor7": {
+          "legs": 3,
+          "power": "solar",
+          "sampler": true,
+          "instrument": "alpha-scattering analyzer",
+          "configuration": "working-era"
+        },
+        "falcon": {
+          "legs": 4,
+          "stages": 1,
+          "configuration": "descent stage only",
+          "power": "mission batteries"
+        },
+        "viking2": {
+          "legs": 3,
+          "power": "two RTGs",
+          "sampler": true,
+          "configuration": "working-era"
+        },
+        "pathfinder": {
+          "petals": 3,
+          "power": "solar",
+          "airbags": "deflated illustration",
+          "configuration": "working-era"
+        },
+        "sojourner": {
+          "wheels": 6,
+          "power": "solar and batteries",
+          "instrument": "APXS",
+          "configuration": "working-era"
+        },
+        "ingenuity": {
+          "legs": 4,
+          "rotors": 2,
+          "bladesPerRotor": 2,
+          "power": "solar and batteries",
+          "configuration": "working-era"
+        },
+        "polarlander": {
+          "legs": 3,
+          "solarArrays": 2,
+          "arrayShape": "rectangular folding panels",
+          "sampler": true,
+          "configuration": "planned deployed design; resting place unknown"
+        }
+      },
+      "credit": "Original ECHOES design illustrations based on NASA records; not NASA engineering meshes, calibrated dimensions, or current scans."
+    },
+    "sources": {
+      "collectionSurveyor1": {
+        "title": "Surveyor 1 mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/surveyor-1/",
+        "summary": "Surveyor 1 landed June 2, 1966. Its primary mission ended July 14, 1966; contact continued until January 7, 1967. The lander stayed on the Moon."
+      },
+      "collectionSurveyor5": {
+        "title": "Surveyor 5 mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/surveyor-5/",
+        "summary": "Surveyor 5 landed September 11, 1967. Contact was lost December 16, 1967, after a mission that returned images and lunar soil chemistry measurements."
+      },
+      "collectionSurveyor6": {
+        "title": "Surveyor 6 mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/surveyor-6/",
+        "summary": "Surveyor 6 landed November 10, 1967, hopped on November 17, and entered hibernation later that month. Contact was briefly recovered December 14, 1967."
+      },
+      "collectionSurveyor7": {
+        "title": "Surveyor 7 mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/surveyor-7/",
+        "summary": "Surveyor 7 landed January 10, 1968, north of Tycho crater. Its final working period ended February 21, 1968."
+      },
+      "collectionFalcon": {
+        "title": "Falcon descent stage mission record",
+        "org": "NASA",
+        "url": "https://www.nasa.gov/mission/apollo-15/",
+        "summary": "Apollo 15’s Falcon landed July 30, 1971. Its ascent stage departed August 2 with David Scott and James Irwin. Only the descent stage remained at the landing site."
+      },
+      "collectionViking2": {
+        "title": "Viking 2 mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/viking-2/",
+        "summary": "Viking 2 landed September 3, 1976. The surface lander stopped transmitting in April 1980; its separate orbiter ended operations in July 1978."
+      },
+      "collectionPathfinder": {
+        "title": "Mars Pathfinder mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "summary": "Mars Pathfinder landed July 4, 1997, and returned its final data September 27, 1997. The lander and Sojourner are separate pieces of hardware left in Ares Vallis."
+      },
+      "collectionSojourner": {
+        "title": "Sojourner mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "summary": "Sojourner was delivered July 4, 1997. Pathfinder’s final transmission was September 27, 1997, ending the documented joint surface mission. Sojourner remains a separate rover near its lander."
+      },
+      "collectionIngenuity": {
+        "title": "Ingenuity mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "summary": "Ingenuity completed 72 flights. Its final flight was January 18, 2024; NASA announced the end of its flight mission January 25 after rotor damage. Flight retirement does not mean every electronic system immediately stopped."
+      },
+      "collectionPolarlander": {
+        "title": "Mars Polar Lander mission record",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/mars-polar-lander-deep-space-2/",
+        "summary": "Mars Polar Lander was lost during arrival on December 3, 1999. Contact attempts ended January 17, 2000. Its exact resting location is unconfirmed; planned surface science was not achieved."
+      },
+      "collectionMplTarget": {
+        "title": "Mars Polar Lander target region",
+        "org": "NASA NSSDCA",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/mars/polar_lander/mpl_ds2_landsite.html",
+        "summary": "The intended target was near 76 degrees south and 195 degrees west. These target-area coordinates do not identify a confirmed wreck."
+      },
+      "collectionIngenuityAirfield": {
+        "title": "Ingenuity at its final airfield",
+        "org": "NASA/JPL-Caltech",
+        "url": "https://science.nasa.gov/resource/perseverance-spots-ingenuity-at-its-final-airfield/",
+        "summary": "A February 2024 rover mosaic shows Ingenuity at its final airfield, nicknamed Valinor Hills. The image is a dated observation, not a live view."
+      },
+      "collectionApollo15Details": {
+        "title": "Apollo 15 mission details",
+        "org": "NASA",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-15-mission-details/",
+        "summary": "Apollo 15 used Falcon for surface exploration at Hadley-Apennine. Its ascent stage lifted the crew away August 2, 1971; the descent stage stayed at the site."
+      },
+      "collectionPathfinderLocation": {
+        "title": "Mars Pathfinder historical landing record",
+        "org": "NASA/JPL",
+        "url": "https://mars.nasa.gov/internal_resources/815/",
+        "summary": "A historical account places the airbag-cushioned landing in Ares Vallis near 19.13 degrees north, 33.22 degrees west. Mapping systems give slightly different coordinates."
+      },
+      "collectionSurveyorProgram": {
+        "title": "NASA Ranger and Surveyor programs",
+        "org": "NASA Science",
+        "url": "https://science.nasa.gov/mission/lunar-rangers-and-surveyors/",
+        "summary": "Five successful Surveyors performed robotic soft landings, photography and instrument operations before Apollo. Hardware and objectives varied among missions."
+      }
+    },
+    "narration": "assets/collection-narration-credits.json"
+  },
+  "surface_expeditions": {
+    "modules": [
+      "surface.js",
+      "surface-logic.js"
+    ],
+    "credit": "Original deterministic Three.js regolith, rocks, terrain and compact educational arrangement. Artifacts brought together for exploration; not a real walking route or surveyed model of the Moon or Mars. Model sizes and terrain illustrative. Mars Polar Lander remains unlocated; displayed as its planned design."
+  },
+  "story_archive_media": {
+    "credits": "assets/story-media/credits.json",
+    "additional_images": 40,
+    "story_films": 4,
+    "background": "20-second NASA LRO-derived lunar visualization, with matched NASA-source still poster. Original source audio removed. Not a live camera view.",
+    "note": "Historical capture dates, image credits, intended-design annotations and primary source URLs accompany each asset. Galleries preserve full frames; InSight deployment and Mars Polar Lander target media are explicitly labelled as intended/design visualizations."
+  }
+}

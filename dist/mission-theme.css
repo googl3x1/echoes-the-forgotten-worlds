@@ -1,0 +1,224 @@
+/* Audiowide by Astigmatic, SIL Open Font License. NASA-inspired styling,
+   not NASA's custom wordmark or an official NASA typeface. */
+@font-face{font-family:'Audiowide';src:url('fonts/Audiowide-Regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+body.game-mode{font-family:'Audiowide','Segoe UI',sans-serif}
+.game-mode .memory-dialog,.game-mode .modal{font-family:'Audiowide','Segoe UI',sans-serif;background:linear-gradient(135deg,#ffca28 0%,#ffa51e 48%,#ffd740 100%);border:1px solid #ffe880;border-radius:22px;color:#321c06;box-shadow:0 30px 120px #0009,0 0 70px #ff9d2026;scrollbar-color:#b75a17 #ffd64b55}
+.game-mode .memory-copy{scrollbar-color:#b75a17 #ffd64b55}
+.game-mode .memory-dialog h1,.game-mode .memory-dialog h2,.game-mode .modal h2{font-family:'Audiowide','Segoe UI',sans-serif;font-weight:400;font-size:30px;line-height:1.35;letter-spacing:-.6px;color:#2d1804}
+.game-mode .memory-kicker{font-family:'Audiowide','Segoe UI',sans-serif;font-size:9px;letter-spacing:1.2px;color:#683207}
+.game-mode .memory-kicker>i{background:#bc550d}
+.game-mode .memory-line{font-family:'Audiowide','Segoe UI',sans-serif;font-style:normal;font-size:15px;line-height:1.75;color:#7c3205;margin-bottom:20px}
+.game-mode .memory-text,.game-mode .memory-dialog p,.game-mode .modal p{font-family:'Audiowide','Segoe UI',sans-serif;color:#4a270b;font-size:11px;line-height:2;letter-spacing:.05px}
+.game-mode .memory-note{font-family:'Audiowide','Segoe UI',sans-serif;font-size:8px;line-height:1.9;color:#6d350b}
+.game-mode .memory-close{background:#ffdf58;border:1px solid #a0501533;color:#482300;box-shadow:0 2px 12px #c0650d22}
+.game-mode .memory-close:hover{background:#fff15c;color:#311800}
+.game-mode .memory-progress button{background:#8e39002e}
+.game-mode .memory-progress button.current{background:linear-gradient(90deg,#f34d00,#b53900);box-shadow:0 0 12px #ff590033}
+.game-mode .memory-image{background:#572701}
+.game-mode .memory-image>img{filter:saturate(1)}
+.game-mode .memory-image-shade{background:linear-gradient(0deg,#3f1d02cc,transparent 55%),linear-gradient(90deg,transparent 75%,#fda51e22)}
+.game-mode .memory-image figcaption{font-family:'Audiowide','Segoe UI',sans-serif;color:#fff2ba;font-size:7px;line-height:1.9;text-shadow:0 1px 4px #0008}
+.game-mode .memory-evidence{font-family:'Audiowide','Segoe UI',sans-serif;font-size:9px;color:#673005;background:#fff08b66;border:1px solid #b7580926;padding:8px 10px;border-radius:7px}
+.game-mode .memory-evidence:hover{color:#842700;background:#fff186}
+.game-mode .memory-next>button:first-child{color:#673005;background:#ffdc5280;border-color:#9e4d1633}
+.game-mode .memory-next>span{font-family:'Audiowide','Segoe UI',sans-serif;color:#763a0a;font-size:8px}
+.game-mode .cosmic-button,.game-mode .modal .button.primary{font-family:'Audiowide','Segoe UI',sans-serif;background:linear-gradient(105deg,#fff428,#ffdf22);color:#432300;border:1px solid #be71072e;font-size:10px;font-weight:400;min-height:46px;box-shadow:0 6px 20px #a74e1226;border-radius:10px}
+.game-mode .cosmic-button:hover,.game-mode .modal .button.primary:hover{background:linear-gradient(105deg,#fff966,#ffed1c);box-shadow:0 6px 24px #ff700044;filter:none}
+.game-mode .memory-tools{border-top-color:#9c48052e}
+.game-mode .memory-tools>button{font-family:'Audiowide','Segoe UI',sans-serif;color:#743807;font-size:8px;gap:7px}
+.game-mode .memory-tools>button:hover{color:#b12d00}
+.game-mode .memory-lab-header h1{font-size:25px}
+.game-mode .game-lab-canvas{background:radial-gradient(ellipse at 50% 50%,#fff7be66,transparent 68%)}
+.game-mode .game-lab-hotspots>button{font-family:'Audiowide','Segoe UI',sans-serif;background:#ffe66644;border-color:#a9581538;color:#a1470b;font-size:8px}
+.game-mode .game-lab-hotspots button>span{font-family:'Audiowide','Segoe UI',sans-serif;color:#643307;font-size:9px}
+.game-mode .game-lab-canvas .model-hotspot{font-family:'Audiowide','Segoe UI',sans-serif;background:#ffb923e6;border-color:#a64400;color:#572300;box-shadow:0 0 0 5px #ffda4c44}
+.game-mode .lab-orbit-loader{border-color:#a84d1a33;border-top-color:#a84d1a}
+.game-mode .game-component{background:linear-gradient(135deg,#ffe858f5,#ffb62cf5);border-color:#ffed91;box-shadow:0 10px 50px #7d320044}
+.game-mode .game-component h2{font-size:20px;color:#512600}
+.game-mode .game-component p{font-family:'Audiowide','Segoe UI',sans-serif;font-size:10px;color:#62310a}
+.game-mode .component-close{color:#693005}
+.game-mode .game-guide-toggle{border-color:#9c4e152e;background:#ffde5d66}
+.game-mode .game-guide-toggle>button{font-family:'Audiowide','Segoe UI',sans-serif;color:#8b440c;font-size:10px}
+.game-mode .game-guide-toggle>button.active{color:#572600;background:#fff141}
+.game-mode .game-chat{scrollbar-color:#b75a17 #ffd64b55}
+.game-mode .game-chat-message{background:#ffe36788;border-color:#ba681e26}
+.game-mode .game-chat-message p{color:#532b07;font-size:10px}
+.game-mode .game-chat-message.user{background:#fff39488}
+.game-mode .game-questions>button{font-family:'Audiowide','Segoe UI',sans-serif;color:#7a3507;background:#ffdf654d;border-color:#a85a1333;font-size:8px}
+.game-mode #game-question-form{border-color:#a6501844;background:#fff29266}
+.game-mode #game-question{font-family:'Audiowide','Segoe UI',sans-serif;color:#4a260b;font-size:10px}
+.game-mode #game-question::placeholder{color:#8b531f}
+.game-mode #game-question-form>button{background:linear-gradient(135deg,#fff61b,#ffc11c);color:#6c2f00}
+.game-mode .game-clue>img{background:#5c2b0733}
+.game-mode .game-answers>button{font-family:'Audiowide','Segoe UI',sans-serif;border-color:#ad601e44;color:#6a360b;background:#ffe57b33;font-size:10px}
+.game-mode .game-answers button>span{font-family:'Audiowide','Segoe UI',sans-serif;color:#99420e;font-size:9px}
+.game-mode .game-answers button.selected{border-color:#b14600;background:#fff231aa;color:#532500}
+.game-mode .game-feedback{color:#9d2b06}
+.game-mode .game-award{background:radial-gradient(circle,#fff12b,transparent);color:#ed6500;filter:drop-shadow(0 0 15px #ff861e66)}
+.game-mode .game-export{font-family:'Audiowide','Segoe UI',sans-serif;color:#7d3907;font-size:9px}
+.game-mode .source-chip,.game-mode .game-chat-message .source-chip{font-family:'Audiowide','Segoe UI',sans-serif;color:#7c3508;border-color:#a45c213d;background:#ffe88255;font-size:8px}
+.game-mode .modal .eyebrow,.game-mode .source-modal-icon{font-family:'Audiowide','Segoe UI',sans-serif;color:#8b3b05}
+.game-mode .source-org,.game-mode .source-paraphrase{font-family:'Audiowide','Segoe UI',sans-serif;color:#7b420f;line-height:1.9;font-size:9px}
+.game-mode .source-paraphrase{border-color:#a75c1c33}
+.game-mode .modal .icon-button{color:#713000;border-color:#a2511c44}
+.game-mode :focus-visible{outline-color:#8b2800}
+@media(max-width:800px){.game-mode .memory-dialog h1{font-size:26px}.game-mode .memory-copy{padding-left:28px;padding-right:28px}.game-mode .memory-tools>button{font-size:7px;gap:5px}.game-mode .memory-line{font-size:13px}.game-mode .memory-text{font-size:10px}.game-mode .memory-next .cosmic-button{font-size:9px;gap:8px}}
+@media(max-width:580px){.game-mode .memory-dialog h1{font-size:25px;line-height:1.4}.game-mode .memory-copy{padding:22px 24px}.game-mode .memory-content{padding-left:24px;padding-right:24px}.game-mode .memory-line{font-size:13px;line-height:1.8}.game-mode .memory-text{font-size:10px;line-height:2}.game-mode .memory-note{font-size:7px}.game-mode .memory-tools>button{font-size:7px;gap:6px}.game-mode .memory-next .cosmic-button{font-size:9px;gap:12px}.game-mode .memory-image-shade{background:linear-gradient(0deg,#4a2004cc,transparent 90%)}.game-mode .memory-kicker{font-size:8px}.game-mode .memory-lab-header h1{font-size:21px}.game-mode .game-lab-hotspots button>span{font-size:9px}.game-mode .game-component h2{font-size:19px}}
+
+/* Reading sizes: give the story room instead of shrinking it to fit. */
+.game-mode .memory-backdrop{padding:24px}
+.game-mode .memory-dialog{width:min(1160px,calc(100vw - 48px));max-height:calc(100svh - 48px)}
+.game-mode .story-dialog{grid-template-columns:.78fr 1.22fr;max-width:1160px}
+.game-mode .memory-copy{padding:36px 38px 28px;max-height:calc(100svh - 48px)}
+.game-mode .memory-dialog h1{font-size:36px;line-height:1.35;letter-spacing:-.5px}
+.game-mode .memory-dialog h2,.game-mode .modal h2{font-size:30px;line-height:1.4}
+.game-mode .memory-dialog p,.game-mode .memory-text,.game-mode .modal p{font-size:18px;line-height:1.8;letter-spacing:0;color:#422209}
+.game-mode .memory-dialog p.memory-line{font-size:20px;line-height:1.65;color:#6c2a04}
+.game-mode .memory-dialog .memory-note{font-size:12px;line-height:1.8;color:#5d2c08}
+.game-mode .memory-kicker{font-size:13px;line-height:1.7;letter-spacing:.8px;padding-right:40px}
+.game-mode .memory-image figcaption{font-size:12px;line-height:1.7}
+.game-mode .memory-evidence{font-size:14px;line-height:1.6;min-height:44px;padding:10px 14px}
+.game-mode .cosmic-button,.game-mode .memory-next .cosmic-button,.game-mode .modal .button.primary{font-size:14px;line-height:1.6;min-height:52px;padding:13px 20px}
+.game-mode .memory-next{flex-wrap:wrap;gap:12px}
+.game-mode .memory-next>button:first-child{height:48px;width:44px;flex-shrink:0}
+.game-mode .memory-next>span{font-size:12px}
+.game-mode .memory-tools{gap:12px;padding-top:20px}
+.game-mode .memory-tools>button{font-size:13px;line-height:1.6;gap:8px;min-height:44px}
+.game-mode .memory-tools svg{width:19px;height:19px}
+.game-mode .memory-close{width:44px;height:44px;top:14px;right:14px}
+.game-mode .memory-lab-header h1{font-size:30px}
+.game-mode .game-lab-hotspots>button,.game-mode .game-lab-hotspots button>span{font-size:14px;line-height:1.7}
+.game-mode .game-lab-canvas .model-hotspot{width:34px;height:34px;font-size:11px}
+.game-mode .game-component h2{font-size:25px}
+.game-mode .game-component p{font-size:16px;line-height:1.8}
+.game-mode .game-guide-toggle>button{font-size:14px;min-height:44px}
+.game-mode .game-chat-message p{font-size:16px;line-height:1.8}
+.game-mode .game-questions>button{font-size:13px;line-height:1.6;min-height:44px}
+.game-mode #game-question{font-size:16px;line-height:1.6}
+.game-mode .game-answers>button{font-size:16px;line-height:1.7}
+.game-mode .game-answers button>span{font-size:14px}
+.game-mode .game-export{font-size:14px;line-height:1.7;min-height:44px}
+.game-mode .source-chip,.game-mode .game-chat-message .source-chip{font-size:12px;line-height:1.7;padding:9px 11px}
+.game-mode .source-org,.game-mode .source-paraphrase{font-size:13px;line-height:1.8}
+.game-mode .modal .eyebrow{font-size:12px;line-height:1.8}
+@media(min-width:901px){
+ .game-mode .memory-backdrop{padding:16px}
+ .game-mode .memory-dialog,.game-mode .memory-copy{max-height:calc(100svh - 32px)}
+ .game-mode .memory-copy{padding-top:32px;padding-bottom:24px}
+ .game-mode .memory-progress{margin:16px 0 20px}
+ .game-mode .memory-next{margin-top:22px}
+ .game-mode .memory-tools{margin-top:18px;padding-top:16px}
+}
+@media(max-width:900px){
+ .game-mode .story-dialog{grid-template-columns:.65fr 1fr}
+ .game-mode .memory-copy{padding:32px 28px 24px}
+ .game-mode .memory-dialog h1{font-size:31px}
+ .game-mode .memory-dialog p,.game-mode .memory-text{font-size:17px}
+ .game-mode .memory-dialog p.memory-line{font-size:19px}
+ .game-mode .memory-tools{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+ .game-mode .memory-tools>button{flex-direction:column;justify-content:center;text-align:center;font-size:12px;gap:7px;min-width:0}
+ .game-mode .game-lab-hotspots>button,.game-mode .game-lab-hotspots button>span{font-size:13px}
+}
+@media(max-width:580px){
+ .game-mode .memory-backdrop{padding:12px}
+ .game-mode .memory-dialog{width:100%;max-height:calc(100svh - 24px)}
+ .game-mode .story-dialog{display:block;overflow:auto}
+ .game-mode .memory-copy{max-height:none;overflow:visible;padding:24px 22px}
+ .game-mode .memory-content{padding:52px 22px 24px}
+ .game-mode .memory-dialog h1{font-size:28px;line-height:1.4}
+ .game-mode .memory-dialog h2,.game-mode .modal h2{font-size:25px}
+ .game-mode .memory-dialog p,.game-mode .memory-text,.game-mode .modal p{font-size:16px;line-height:1.8}
+ .game-mode .memory-dialog p.memory-line{font-size:18px;line-height:1.7}
+ .game-mode .memory-dialog .memory-note{font-size:12px;line-height:1.8}
+ .game-mode .memory-kicker{font-size:12px;letter-spacing:.5px}
+ .game-mode .memory-image{height:155px}
+ .game-mode .memory-close{position:fixed;top:24px;right:24px;z-index:6}
+ .game-mode .memory-image figcaption{font-size:11px;line-height:1.6;left:18px;right:18px}
+ .game-mode .memory-evidence{font-size:13px;padding:10px 12px}
+ .game-mode .memory-next .cosmic-button{font-size:13px;gap:8px;padding:12px 14px;flex:1}
+ .game-mode .memory-next>span{display:none}
+ .game-mode .memory-tools>button{font-size:11px;line-height:1.6}
+ .game-mode .memory-lab-header{padding-top:50px}
+ .game-mode .memory-lab-header h1{font-size:25px}
+ .game-mode .game-lab-hotspots>button,.game-mode .game-lab-hotspots button>span{font-size:13px}
+ .game-mode .game-component{bottom:225px}
+ .game-mode .game-component h2{font-size:22px}
+ .game-mode .game-component p{font-size:15px}
+ .game-mode .game-answers>button{font-size:15px}
+ .game-mode .source-org,.game-mode .source-paraphrase{font-size:12px}
+}
+
+/* Touch, explore, and learn. All controls stay inside artifact overlays. */
+.game-mode .model-image{background:radial-gradient(ellipse at 50% 35%,#515359,#151820 80%);min-height:550px}
+.story-model-canvas{position:absolute;inset:64px 0 100px}
+.story-model-canvas canvas{position:absolute;inset:0;width:100%;height:100%;touch-action:none;cursor:grab}
+.story-visual-toggle{position:absolute;top:18px;left:18px;right:18px;z-index:3;display:flex;gap:6px;justify-content:center}
+.story-visual-toggle button{background:#1b1b1bd9;border:1px solid #ffdf6b55;color:#ffe597;min-height:44px;border-radius:24px;padding:8px 16px;font:13px 'Audiowide',sans-serif}
+.story-visual-toggle button[aria-pressed=true]{background:#ffcf34;color:#3b2305;border-color:#ffe98a}
+.story-model-controls{position:absolute;bottom:92px;left:20px;right:20px;z-index:2;display:flex;align-items:center;gap:12px;color:#ffe797;font-size:11px;line-height:1.7}
+.story-model-controls button{width:44px;height:44px;border:1px solid #ffdf6b66;border-radius:50%;display:grid;place-items:center;flex-shrink:0;background:#282723cc}
+.game-mode .model-image figcaption{bottom:20px;font-size:11px;color:#fff0c9}
+.story-model-canvas .model-hotspot{background:#ffdc44;color:#3b2305;border-color:#a75600;font:12px 'Audiowide',sans-serif;width:36px;height:36px;box-shadow:0 0 0 5px #ffd64326}
+.story-model-canvas .lab-orbit-loader{border-top-color:#ffdc44}
+.game-mode .story-reading{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.game-mode .story-reading .memory-evidence{margin-top:0}
+.game-mode #narration-status:empty{display:none}
+.game-mode .story-challenge{display:flex;align-items:center;gap:14px;width:100%;margin-top:22px;padding:16px;border:1px solid #a74c10;border-radius:14px;background:linear-gradient(110deg,#fff04b,#ffda31);color:#482400;text-align:left;font:16px/1.6 'Audiowide',sans-serif;box-shadow:0 5px 20px #c4591022}
+.story-challenge>svg{flex-shrink:0}.story-challenge>span{flex:1}.story-challenge small{display:block;font-size:11px;letter-spacing:.8px;margin-bottom:5px;text-transform:uppercase;color:#82400c}
+.game-mode .learning-lab{height:min(860px,calc(100svh - 32px));overflow:auto;display:block;max-width:1160px}
+.game-mode .learning-lab .memory-lab-header{padding:26px 32px 12px}
+.game-mode .learning-lab .memory-lab-header h1{font-size:29px;line-height:1.4;margin:8px 0}
+.game-mode .learning-lab .memory-lab-header .memory-note{margin:0}
+.lab-workspace{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:20px;padding:0 32px;min-height:330px}
+.game-mode .learning-lab .game-lab-canvas{min-height:360px;background:radial-gradient(ellipse at 50% 35%,#474b54,#151820 85%);border-radius:18px;overflow:clip}
+.game-mode .learning-panel{padding:12px 4px;min-width:0;align-self:center}
+.game-mode .learning-panel h2{font-size:26px;line-height:1.4;margin:12px 0}
+.game-mode .learning-panel p{font-size:16px;line-height:1.8;margin:0 0 14px}
+.game-mode .learning-panel p.part-discovery{padding-left:14px;border-left:3px solid #b54800;color:#693009}
+.game-mode .learning-panel p.part-hint{padding:12px;border-radius:10px;background:#fff081;font-size:15px}
+.game-mode .learning-panel .memory-kicker{padding-right:0}
+.game-mode .learning-panel .memory-note{margin:16px 0}
+.game-mode .learning-panel .memory-evidence{margin-top:0}
+.game-mode .learning-panel .cosmic-button{font-size:13px;padding:10px 14px;min-height:44px}
+.game-mode .learning-lab .game-lab-bottom{padding:16px 32px 22px}
+.game-mode .learning-lab .game-lab-hotspots>button{padding:12px;background:#ffe86d;align-items:center;color:#582500;min-height:54px}
+.game-mode .game-lab-hotspots>button[aria-pressed=true]{background:#fff44b;border:2px solid #a83e00}
+.game-mode .learning-lab .game-lab-canvas .model-hotspot{width:40px;height:40px;min-height:40px;background:#ffdc44;color:#351d05;font-size:13px}
+.game-mode .game-lab-canvas .model-hotspot.is-focused{background:#fff4b3;box-shadow:0 0 0 7px #ffd84355,0 0 35px #ffb52b77}
+.game-mode .lab-reset{position:absolute;bottom:14px;left:14px;z-index:3;margin:0;background:#ffdc44;color:#4b2200;font-size:12px;min-height:40px;padding:8px 12px}
+.model-unavailable{position:absolute;bottom:10px;left:10px;background:#ffdc44;color:#4b2200;padding:8px;font-size:12px}
+@media(max-width:900px){
+ .game-mode .story-dialog{grid-template-columns:1fr 1.2fr}
+ .game-mode .learning-lab .memory-lab-header h1{font-size:26px}
+ .lab-workspace{gap:16px;padding:0 24px;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}
+ .game-mode .learning-panel h2{font-size:23px}
+ .game-mode .learning-lab .game-lab-bottom{padding:16px 24px}
+}
+@media(max-width:650px){
+ .lab-workspace{display:block;padding:0 18px}
+ .game-mode .learning-lab .game-lab-canvas{height:310px;min-height:310px}
+ .game-mode .learning-lab{height:auto;max-height:calc(100svh - 24px)}
+ .game-mode .learning-lab .memory-lab-header{padding:52px 20px 16px}
+ .game-mode .learning-panel{padding:20px 2px 0}
+ .game-mode .learning-lab .game-lab-hotspots{flex-direction:column;gap:8px}
+ .game-mode .learning-lab .game-lab-bottom{padding:12px 18px 20px}
+ .game-mode .learning-lab .game-lab-hotspots>button{min-height:48px}
+}
+@media(max-width:580px){
+ .game-mode .model-image{height:340px;min-height:340px}
+ .story-model-canvas{inset:55px 0 78px}
+ .story-visual-toggle{left:12px;right:52px;top:12px;justify-content:flex-start}
+ .story-visual-toggle button{padding:8px 13px;font-size:11px}
+ .story-model-controls{left:auto;right:12px;bottom:82px}
+ .story-model-controls span{display:none}
+ .game-mode .model-image figcaption{font-size:10px;left:18px;right:18px;bottom:12px}
+ .game-mode .story-challenge{font-size:15px;padding:14px;gap:10px}
+ .story-challenge small{font-size:10px}
+ .game-mode .learning-panel h2{font-size:24px}
+ .game-mode .learning-panel p{font-size:16px}
+}
+
+@media(min-width:581px){
+ .game-mode .learning-lab .memory-close{position:sticky;float:right;top:14px;right:14px;margin:14px 14px -58px 0}
+ .game-mode .learning-lab .memory-lab-header{padding-right:70px}
+}
