@@ -8,7 +8,6 @@
 
 **ECHOES** is an interactive educational experience about the spacecraft, experiments, and exploration hardware left behind on the Moon and Mars. It was created for the **NASA Space Apps Challenge 2026**, responding to **“Abandoned but Not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars.”**
 
-Created by a student team including **Sonica Gill** and **Humaira Rajar**.
 
 ## Explore the project
 
